@@ -2536,11 +2536,11 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #3569b1;
+					color: #7296c9;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #3161a3;
+					color: #537fbd;
 				}
 
 				.wrapper.style2 .icon.major:before {
@@ -2560,11 +2560,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style4 .icon.major:before {
-					color: #4dc7b9;
+					color: #83d8ce;
 				}
 
 				.wrapper.style4-alt .icon.major:before {
-					color: #47b7aa;
+					color: #68cfc3;
 				}
 
 /* Image */
@@ -2639,7 +2639,7 @@ input, select, textarea {
 			max-width: 40%;
 		}
 
-			.video.left img, .video.right img {
+			.video.left iframe, .video.right iframe {
 				width: 100%;
 			}
 
@@ -2661,7 +2661,7 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.video.fit img {
+			.video.fit iframe {
 				width: 100%;
 			}
 
@@ -2671,9 +2671,63 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.video.main img {
+			.video.main iframe {
 				width: 100%;
 			}
+
+/* Google Form */
+
+.gForm {
+	border-radius: 0.25em;
+	border: 0;
+	display: inline-block;
+	position: relative;
+}
+
+	.gForm iframe {
+		border-radius: 0.25em;
+		display: block;
+	}
+
+	.gForm.left, .gForm.right {
+		max-width: 40%;
+	}
+
+		.gForm.left iframe, .gForm.right iframe {
+			width: 100%;
+		}
+
+	.gForm.left {
+		float: left;
+		margin: 0 1.5em 1em 0;
+		top: 0.25em;
+	}
+
+	.gForm.right {
+		float: right;
+		margin: 0 0 1em 1.5em;
+		top: 0.25em;
+	}
+
+	.gForm.fit {
+		display: block;
+		margin: 0 0 2em 0;
+		width: 100%;
+	}
+
+		.gForm.fit iframe {
+			width: 100%;
+		}
+
+	.gForm.main {
+		display: block;
+		margin: 0 0 3em 0;
+		width: 100%;
+	}
+
+		.gForm.main iframe {
+			width: 100%;
+		}
 
 /* List */
 
@@ -3302,7 +3356,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #3569b1;
+			background-color: #7296c9;
 		}
 
 		.wrapper.style1-alt {
@@ -3326,7 +3380,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #4dc7b9;
+			background-color: #83d8ce;
 		}
 
 		.wrapper.style4-alt {
