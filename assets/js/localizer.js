@@ -195,10 +195,10 @@ var dictionary = {
 
         /*Meet the team*/
         "Meet The Team Title": "Coneix l'equip",
-        "Meet The Team Paragraph1": "Darrere de Muvity hi ha un equip complex i exhaustiu amb experiència en diferents camps per desenvolupar-se al màxim de les nostres capacitats, amb investigadors de la UPC i fisioterapeutes d'ADFO.",
+        "Meet The Team Paragraph1": "Darrere de Muvity hi ha un equip multidisciplinar amb experiència en diferents camps, amb investigadors de la UPC i terapeutes d'ADFO.",
 
         /*News*/
-        "News Title": "News",
+        "News Title": "Notícies",
         /*Sections*/
         "News Section1 Title": "Article publicat",
         "News Section1 Info": "Avaluar la viabilitat d'un sistema de telerehabilitació per a subjectes crònics post-ictus en comparació amb un tractament convencional.",
@@ -269,7 +269,7 @@ var dictionary = {
 
         /*Meet the team*/
         "Meet The Team Title": "Conoce al equipo",
-        "Meet The Team Paragraph1": "Detrás de Muvity hay un equipo complejo y completo con experiencia en varios campos para desarrollar lo mejor de nuestras capacidades, con investigadores de la UPC y fisioterapeutas de ADFO.",
+        "Meet The Team Paragraph1": "Detrás de Muvity hay un equipo multidisciplinar con experiencia en varios campos, con investigadores de la UPC y terapeutas de ADFO.",
 
         /*News*/
         "News Title": "Noticias",
