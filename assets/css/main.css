@@ -2674,6 +2674,21 @@ input, select, textarea {
 			.video.main iframe {
 				width: 100%;
 			}
+		
+		.video-container {
+			position: relative;
+			width: 100%;
+			padding-bottom: 56.25%;
+			/* 16:9 aspect ratio */
+		  }
+
+		  .video-container iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		  }
 
 /* Google Form */
 
@@ -3163,7 +3178,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 100%;
 			-ms-flex: 1;
 		}
 
