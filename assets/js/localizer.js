@@ -249,11 +249,11 @@ var dictionary = {
         /*Sections*/
         "About Section Rehab": "Rehabilitación",
         "About Section Customizable": "Customizable",
-        "About Section Clinical Relevant Data": "Datos Clínicamente Relevante",
+        "About Section Clinical Relevant Data": "Datos Clínicamente Relevantes",
         "About Section Flexible": "Flexible",
         "About Section Rehab Info": "Sistema de rehabilitación gamificado dirigido a personas con problemas neuromusculares",
         "About Section Customizable Info": "El fisioterapeuta adapta el tratamiento según tu evolución remotamente",
-        "About Section Clinical Relevant Data Info": "Captura 3D, analisis cinemática y dinámica para mejorar los resultados de la fisioterapia",
+        "About Section Clinical Relevant Data Info": "Captura 3D, analisis cinemáticos y dinámicos para mejorar los resultados de la fisioterapia",
         "About Section Flexible Info": "Muvity adapta las metas de los juegos según las capacidadess del usuario",
 
         /*Research*/
