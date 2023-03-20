@@ -146,7 +146,7 @@ input, select, textarea {
 
 		}
 
-	a {
+	a, aBlue {
 		-moz-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
@@ -161,8 +161,18 @@ input, select, textarea {
 			color: #ffffff;
 		}
 
+		aBlue:hover {
+			border-bottom-color: transparent;
+			color: #2d5997;
+		}
+
 	strong, b {
 		color: #ffffff;
+		font-weight: bold;
+	}
+
+	strongBlue, bBlue {
+		color: #2d5997;
 		font-weight: bold;
 	}
 
@@ -186,17 +196,29 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-	h1 {
+	h1Blue, h2Blue, h3Blue, h4Blue, h5Blue, h6Blue {
+		color: #2d5997;
+		font-weight: bold;
+		line-height: 1.5;
+		margin: 0 0 0.5em 0;
+	}
+
+		h1Blue a, h2Blue a, h3Blue a, h4Blue a, h5Blue a, h6Blue a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+	h1, h1Blue {
 		font-size: 2.75em;
 	}
 
-		h1.major {
+		h1.major, h1Blue.major {
 			margin: 0 0 1.3em 0;
 			position: relative;
 			padding-bottom: 0.35em;
 		}
 
-			h1.major:after {
+			h1.major:after, h1Blue.major:after {
 				background-image: -moz-linear-gradient(to right, #83d8ce, #ee7fb4);
 				background-image: -webkit-linear-gradient(to right, #83d8ce, #ee7fb4);
 				background-image: -ms-linear-gradient(to right, #83d8ce, #ee7fb4);
@@ -214,49 +236,49 @@ input, select, textarea {
 				width: 100%;
 			}
 
-	h2 {
+	h2, h2Blue {
 		font-size: 1.75em;
 	}
 
-	h3 {
+	h3, h3Blue {
 		font-size: 1.1em;
 	}
 
-	h4 {
+	h4, h4Blue {
 		font-size: 1em;
 	}
 
-	h5 {
+	h5, h5Blue {
 		font-size: 0.8em;
 	}
 
-	h6 {
+	h6, h6Blue {
 		font-size: 0.6em;
 	}
 
 	@media screen and (max-width: 736px) {
 
-		h1 {
+		h1, h1Blue {
 			font-size: 2em;
 		}
 
-		h2 {
+		h2, h2Blue {
 			font-size: 1.25em;
 		}
 
-		h3 {
+		h3, h3Blue {
 			font-size: 1em;
 		}
 
-		h4 {
+		h4, h4Blue {
 			font-size: 0.8em;
 		}
 
-		h5 {
+		h5, h5Blue {
 			font-size: 0.6em;
 		}
 
-		h6 {
+		h6, h6Blue {
 			font-size: 0.6em;
 		}
 
@@ -2303,6 +2325,15 @@ input, select, textarea {
 		font-size: 1.1em;
 	}
 
+	labelBlue {
+		color: #2d5997;
+		font-weight: bold;
+		line-height: 1.5;
+		margin: 0 0 0.7em 0;
+		display: block;
+		font-size: 1.1em;
+	}
+
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
@@ -2344,7 +2375,7 @@ input, select, textarea {
 			box-shadow: 0 0 0 1px #ffffff;
 		}
 
-	select {
+	select, selectBlue {
 		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(255, 255, 255, 0.15)' /%3E%3C/svg%3E");
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
@@ -2359,11 +2390,16 @@ input, select, textarea {
 			background: #2d5997;
 		}
 
-		select:focus::-ms-value {
+		selectBlue option {
+			color: #2d5997;
+			background: #ffffff;
+		}
+
+		select:focus::-ms-value, selectBlue:focus::-ms-value {
 			background-color: transparent;
 		}
 
-		select::-ms-expand {
+		select::-ms-expand, selectBlue::-ms-expand {
 			display: none;
 		}
 
@@ -3296,6 +3332,14 @@ input, select, textarea {
 			text-align: left;
 		}
 
+		tableBlue th {
+			color: #2d5997;
+			font-size: 1em;
+			font-weight: bold;
+			padding: 0 0.75em 0.75em 0.75em;
+			text-align: left;
+		}
+
 		table thead {
 			border-bottom: solid 2px rgba(255, 255, 255, 0.15);
 		}
@@ -3522,6 +3566,14 @@ input, select, textarea {
 			font-weight: bold;
 		}
 
+		#header > .titleBlue {
+			border: 0;
+			color: #2d5997;
+			display: block;
+			font-size: 1.25em;
+			font-weight: bold;
+		}
+
 		#header > nav {
 			-moz-flex: 1;
 			-webkit-flex: 1;
@@ -3562,6 +3614,10 @@ input, select, textarea {
 
 						#header > nav > ul > li a.active {
 							color: #ffffff;
+						}
+
+						#header > nav > ul > li a.activeBlue {
+							color: #2d5997;
 						}
 
 		@media screen and (max-width: 736px) {

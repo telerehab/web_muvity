@@ -13,6 +13,7 @@ var dictionary = {
         "Meet the team": "Meet the team",
         "News": "News",
         "Contact": "Contact",
+        "Sponsors": "Sponsors",
 
         /*Buttons*/
         "Learn More": "Learn more",
