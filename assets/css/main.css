@@ -2597,6 +2597,7 @@ input, select, textarea {
 
 				.wrapper.style4 .icon.major:before {
 					color: #83d8ce;
+					
 				}
 
 				.wrapper.style4-alt .icon.major:before {
@@ -2664,7 +2665,7 @@ input, select, textarea {
 		}
 
 		.image-container {
-			display: flex;
+			/*display: flex;*/
 			justify-content: center;
 			align-items: center;
 			margin: 5px;
@@ -3456,7 +3457,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #83d8ce;
+			background-color: #2B8D82;			
+			/*background-color: #83d8ce;*/
 		}
 
 		.wrapper.style4-alt {
