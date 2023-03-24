@@ -3465,6 +3465,17 @@ input, select, textarea {
 			background-color: #ffffff;			
 			/*background-color: #83d8ce;*/
 		}
+		
+		h2.specific {
+			color: #2B8D82;
+		}
+		
+		.specific {
+			color: #2B8D82;
+		}
+		#specific {
+			color: #2B8D82;
+		}
 
 		.wrapper.style4-alt {
 			background-color: #42a99d;
