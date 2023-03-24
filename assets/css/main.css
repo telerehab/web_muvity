@@ -2656,6 +2656,23 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		.image-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+		}
+
+		.image-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: 5px;
+		}
+
+		.image-position-center {
+			margin: 0 5px;
+		}
 
 /* Video */
 

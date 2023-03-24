@@ -13,7 +13,7 @@ var dictionary = {
         "Meet the team": "Meet the team",
         "News": "News",
         "Contact": "Contact",
-        "Sponsors": "Sponsors",
+        "Developers": "Developers",
 
         /*Buttons*/
         "Learn More": "Learn more",
@@ -73,6 +73,12 @@ var dictionary = {
         "Contact Address": "Address",
         "Contact Email": "Email",
         "Contact Social": "Social",
+		
+		/*Developers*/
+		"DevelopersTitle": "Developed by:",
+		
+		/*Support*/
+		"SupportTitle": "With the support of:"
     },
 
 // ENGLISH
@@ -147,6 +153,12 @@ var dictionary = {
         "Contact Address": "Address",
         "Contact Email": "Email",
         "Contact Social": "Social",
+		
+		/*Developers*/
+		"DevelopersTitle": "Developed by:",
+		
+		/*Support*/
+		"SupportTitle": "With the support of:"
     },
 
 //CATALÀ
@@ -221,6 +233,12 @@ var dictionary = {
         "Contact Address": "Direcció",
         "Contact Email": "Email",
         "Contact Social": "Xarxes Socials",
+		
+		/*Developers*/
+		"DevelopersTitle": "Desenvolupat per:",
+		
+		/*Support*/
+		"SupportTitle": "Amb el suport de:"
     },
 
 //ESPAÑOL
@@ -295,6 +313,12 @@ var dictionary = {
         "Contact Address": "Dirección",
         "Contact Email": "Email",
         "Contact Social": "Redes sociales",
+		
+		/*Developers*/
+		"DevelopersTitle": "Desarrollado por:",
+		
+		/*Support*/
+		"SupportTitle": "Con el soporte de:"
     }
 
 }
