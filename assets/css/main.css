@@ -3460,6 +3460,11 @@ input, select, textarea {
 			background-color: #2B8D82;			
 			/*background-color: #83d8ce;*/
 		}
+		
+		.wrapper.style5 {
+			background-color: #ffffff;			
+			/*background-color: #83d8ce;*/
+		}
 
 		.wrapper.style4-alt {
 			background-color: #42a99d;
