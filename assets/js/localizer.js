@@ -7,6 +7,7 @@ var dictionary = {
         /*Title*/
         "Title": "Muvity Rehab",
         "Muvity Rehab": "Muvity Rehab",
+        "Home": "Home",
 
         /*Sidebar*/
         "Welcome": "Welcome",
@@ -95,8 +96,10 @@ var dictionary = {
         "research.html Paragraph1": "",
 
         ////////// NEWS //////////
-        "news.html Title": "",
-        "news.html Paragraph1": "",
+        "news.html Title": "News",
+        "news.html Featured": "Featured",
+        "news.html News1": "Publishing of the article",
+        "news.html News1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
 
         ////////// MEET THE TEAM //////////
         "meetTheTeam.html Title": "",
@@ -107,8 +110,9 @@ var dictionary = {
 // ENGLISH
     "en": {
         /*Title*/
-        "Muvity Rehab": "Muvity Rehab",
         "Title": "Muvity Rehab",
+        "Muvity Rehab": "Muvity Rehab",
+        "Home": "Home",
 
         /*Sidebar*/
         "Welcome": "Welcome",
@@ -117,6 +121,7 @@ var dictionary = {
         "Meet the team": "Meet the team",
         "News": "News",
         "Contact": "Contact",
+        "Developers and support": "Developers and support",
 
         /*Buttons*/
         "Learn More": "Learn more",
@@ -181,14 +186,38 @@ var dictionary = {
 		"Developers Title": "Developed by:",
 		
 		/*Support*/
-		"Support Title": "With the support of:"
+        "Support Title": "With the support of:",
+
+        ////////// ABOUT MUVITY //////////
+        "aboutMuvity.html Title": "",
+        "aboutMuvity.html Paragraph1": "",
+
+        ////////// HOW IT WORKS //////////
+        "howItWorks.html Title": "",
+        "howItWorks.html Paragraph1": "",
+
+        ////////// RESEARCH //////////
+        "research.html Title": "",
+        "research.html Paragraph1": "",
+
+        ////////// NEWS //////////
+        "news.html Title": "News",
+        "news.html Featured": "Featured",
+        "news.html News1": "Publishing of the article",
+        "news.html News1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
+
+        ////////// MEET THE TEAM //////////
+        "meetTheTeam.html Title": "",
+        "meetTheTeam.html Paragraph1": "",
+
     },
 
 //CATALÀ
     "ca": {
         /*Title*/
-        "Muvity Rehab": "Muvity Rehabilitació",
         "Title": "Muvity Rehabilitació",
+        "Muvity Rehab": "Muvity Rehabilitació",
+        "Home": "Home",
 
         /*Sidebar*/
         "Welcome": "Benvinguts",
@@ -197,6 +226,7 @@ var dictionary = {
         "Meet the team": "Coneix l'equip",
         "News": "Notícies",
         "Contact": "Posa't en contacte",
+        "Developers and support": "Desenvolupadors i suport",
 
         /*Buttons*/
         "Learn More": "Saber-ne més",
@@ -236,7 +266,7 @@ var dictionary = {
         /*News*/
         "News Title": "Notícies",
         /*Sections*/
-        "News Section1 Title": "Article publicat",
+        "News Section1 Title": "Publicació de l'article",
         "News Section1 Info": "Avaluar la viabilitat d'un sistema de telerehabilitació per a subjectes crònics post-ictus en comparació amb un tractament convencional.",
         "News Section2 Title": "",
         "News Section2 Info": "",
@@ -261,7 +291,30 @@ var dictionary = {
 		"Developers Title": "Desenvolupat per:",
 		
 		/*Support*/
-		"Support Title": "Amb el suport de:"
+        "Support Title": "Amb el suport de:",
+
+        ////////// ABOUT MUVITY //////////
+        "aboutMuvity.html Title": "",
+        "aboutMuvity.html Paragraph1": "",
+
+        ////////// HOW IT WORKS //////////
+        "howItWorks.html Title": "",
+        "howItWorks.html Paragraph1": "",
+
+        ////////// RESEARCH //////////
+        "research.html Title": "",
+        "research.html Paragraph1": "",
+
+        ////////// NEWS //////////
+        "news.html Title": "Notícies",
+        "news.html Featured": "Destacat",
+        "news.html News1": "Publicació de l'article",
+        "news.html News1 Info": "Avaluar la viabilitat d'un sistema de telerehabilitació per a subjectes crònics post-ictus en comparació amb un tractament convencional.",
+
+        ////////// MEET THE TEAM //////////
+        "meetTheTeam.html Title": "",
+        "meetTheTeam.html Paragraph1": "",
+
     },
 
 //ESPAÑOL
@@ -269,6 +322,7 @@ var dictionary = {
         /*Title*/
         "Title": "Muvity Rehabilitación",
         "Muvity Rehab": "Muvity Rehabilitación",
+        "Home": "Home",
 
         /*Sidebar*/
         "Welcome": "Bienvenidos",
@@ -277,6 +331,7 @@ var dictionary = {
         "Meet the team": "Conoce al equipo",
         "News": "Noticias",
         "Contact": "Ponte en contacto",
+        "Developers and support": "Desarrolladores y soporte",
 
         /*Buttons*/
         "Learn More": "Saber más",
@@ -316,7 +371,7 @@ var dictionary = {
         /*News*/
         "News Title": "Noticias",
         /*Sections*/
-        "News Section1 Title": "Artículo publicado",
+        "News Section1 Title": "Publicación del artículo",
         "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos crónicos postictus frente a un tratamiento convencional.",
         "News Section2 Title": "",
         "News Section2 Info": "",
@@ -341,7 +396,30 @@ var dictionary = {
 		"Developers Title": "Desarrollado por:",
 		
 		/*Support*/
-		"Support Title": "Con el soporte de:"
+        "Support Title": "Con el soporte de:",
+
+        ////////// ABOUT MUVITY //////////
+        "aboutMuvity.html Title": "",
+        "aboutMuvity.html Paragraph1": "",
+
+        ////////// HOW IT WORKS //////////
+        "howItWorks.html Title": "",
+        "howItWorks.html Paragraph1": "",
+
+        ////////// RESEARCH //////////
+        "research.html Title": "",
+        "research.html Paragraph1": "",
+
+        ////////// NEWS //////////
+        "news.html Title": "Noticias",
+        "news.html Featured": "Destacado",
+        "news.html News1": "Publicación del artículo",
+        "news.html News1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos crónicos postictus frente a un tratamiento convencional.",
+
+        ////////// MEET THE TEAM //////////
+        "meetTheTeam.html Title": "",
+        "meetTheTeam.html Paragraph1": "",
+
     }
 
 }
