@@ -2,6 +2,8 @@ var dictionary = {
 
 //UNDEFINED
     "_": { // when language is not supported
+
+        ////////// INDEX //////////
         /*Title*/
         "Title": "Muvity Rehab",
         "Muvity Rehab": "Muvity Rehab",
@@ -13,7 +15,7 @@ var dictionary = {
         "Meet the team": "Meet the team",
         "News": "News",
         "Contact": "Contact",
-        "Developers": "Developers",
+        "Developers and support": "Developers and support",
 
         /*Buttons*/
         "Learn More": "Learn more",
@@ -53,7 +55,7 @@ var dictionary = {
         /*News*/
         "News Title": "News",
         /*Sections*/
-        "News Section1 Title": "Published article",
+        "News Section1 Title": "Publishing of the article",
         "News Section1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
         "News Section2 Title": "",
         "News Section2 Info": "",
@@ -75,10 +77,31 @@ var dictionary = {
         "Contact Social": "Social",
 		
 		/*Developers*/
-		"DevelopersTitle": "Developed by:",
+		"Developers Title": "Developed by:",
 		
 		/*Support*/
-		"SupportTitle": "With the support of:"
+        "Support Title": "With the support of:",
+
+        ////////// ABOUT MUVITY //////////
+        "aboutMuvity.html Title": "",
+        "aboutMuvity.html Paragraph1": "",
+
+        ////////// HOW IT WORKS //////////
+        "howItWorks.html Title": "",
+        "howItWorks.html Paragraph1": "",
+
+        ////////// RESEARCH //////////
+        "research.html Title": "",
+        "research.html Paragraph1": "",
+
+        ////////// NEWS //////////
+        "news.html Title": "",
+        "news.html Paragraph1": "",
+
+        ////////// MEET THE TEAM //////////
+        "meetTheTeam.html Title": "",
+        "meetTheTeam.html Paragraph1": "",
+
     },
 
 // ENGLISH
@@ -155,10 +178,10 @@ var dictionary = {
         "Contact Social": "Social",
 		
 		/*Developers*/
-		"DevelopersTitle": "Developed by:",
+		"Developers Title": "Developed by:",
 		
 		/*Support*/
-		"SupportTitle": "With the support of:"
+		"Support Title": "With the support of:"
     },
 
 //CATALÀ
@@ -235,10 +258,10 @@ var dictionary = {
         "Contact Social": "Xarxes Socials",
 		
 		/*Developers*/
-		"DevelopersTitle": "Desenvolupat per:",
+		"Developers Title": "Desenvolupat per:",
 		
 		/*Support*/
-		"SupportTitle": "Amb el suport de:"
+		"Support Title": "Amb el suport de:"
     },
 
 //ESPAÑOL
@@ -267,7 +290,7 @@ var dictionary = {
         "About Paragraph1": "Muvity es una aplicación de rehabilitación que promueve la participación activa del usuario en su propia rehabilitación, y es una herramienta para lso fisioterapeutas para hacer el seguimiento de sus pacientes.",
         /*Sections*/
         "About Section Rehab": "Rehabilitación",
-        "About Section Customizable": "Customizable",
+        "About Section Customizable": "Personalizable",
         "About Section Clinical Relevant Data": "Datos Clínicamente Relevantes",
         "About Section Flexible": "Flexible",
         "About Section Rehab Info": "Sistema de rehabilitación gamificado dirigido a personas con problemas neuromusculares",
@@ -315,10 +338,10 @@ var dictionary = {
         "Contact Social": "Redes sociales",
 		
 		/*Developers*/
-		"DevelopersTitle": "Desarrollado por:",
+		"Developers Title": "Desarrollado por:",
 		
 		/*Support*/
-		"SupportTitle": "Con el soporte de:"
+		"Support Title": "Con el soporte de:"
     }
 
 }

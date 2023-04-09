@@ -17,7 +17,7 @@
 
 		<!-- Sidebar -->
 		<section id="sidebar">
-			<div class="inner">   
+			<div class="inner">
 				<nav>
 					<ul>
 						<li><a href="#intro"><localized-text key="Welcome"></localized-text></a></li>
@@ -25,6 +25,7 @@
 						<li><a href="#research"><localized-text key="Research"></localized-text></a></li>
 						<li><a href="#meetTheTeam"><localized-text key="Meet the team" "></localized-text></a></li>
 						<li><a href="#news"><localized-text key="News"></localized-text></a></li>
+						<li><a href="#developers"><localized-text key="Developers and support"></localized-text></a></li>
 						<li><a href="#getInTouch"><localized-text key="Contact"></localized-text></a></li>
 					</ul>
 				</nav>
@@ -137,18 +138,34 @@
 			<!-- News -->
 			<section id="news" class="wrapper style1 fade-up">
 				<div class="inner">
-					<h2><localized-text key="News Title"></localized-text></h2>
+					<h2><localized-text key="News Title"></h2>
+					<!--<h2><a href="news.html"><localized-text key="News Title"></a></h2>-->
 
+					<ul class="actions">
+						<li><a href="#news.html" class="button scrolly"><localized-text key="Learn More"></localized-text></a></li>
+					</ul>
 
 					<!--- HERE YOU CAN EDIT THE NEWS PAGE: each section is a different news (h3 is the header, p is a paragraph. The last one is the link to the news, just change the url). I recommend using only the 3 most important/newest here, and adding the others in the page dedicated to news in chronological order--->
 
-					<section>
-						<h3><localized-text key="News Section1 Title"></localized-text></h3>
-						<p><localized-text key="News Section1 Info"></localized-text></p>
-						<p><a href="https://www.sciencedirect.com/science/article/pii/S1052305722004852"><localized-text key="Title"></localized-text></a></p>
+					<section class="tiles">
+						<article class="style7">
+							<span class="image">
+								<img src="images/5300307_small.png" alt="" />
+							</span>
+							<a href="https://www.sciencedirect.com/science/article/pii/S1052305722004852">
+								<h2><localized-text key="News Section1 Title"></h2>
+								<div class="content">
+									<p><localized-text key="News Section1 Info"></p>
+								</div>
+							</a>
+						</article>
 					</section>
+
+
+
 				</div>
 			</section>
+
 
 			<!-- Contact -->
 			<section id="getInTouch" class="wrapper style4 spotlights">
@@ -220,8 +237,8 @@
 									<ul class="icons">
 										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<!--<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="https://github.com/telerehab/Muvity" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>-->
+									<li><a href="https://github.com/telerehab/Muvity" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>-->
 										<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 									</ul>
 								</li>
@@ -234,25 +251,25 @@
 			<!-- Developers -->
 			<section id="developers" class="wrapper style5 spotlights">
 				<div class="inner">
-					<h2 style="color:#2d5997;"><localized-text key="DevelopersTitle"></localized-text></h2>
+					<h2 style="color:#2d5997;"><localized-text key="Developers Title"></localized-text></h2>
 					<hr style="border-top: 1px solid black;">
 					<section>
-					<div class="image-row">
-						<div class="image-position-center">
-							<img src="images/logoUPC.png" alt="" height="150" />
+						<div class="image-row">
+							<div class="image-position-center">
+								<img src="images/logoUPC.png" alt="" height="150" />
+							</div>
+							<div class="image-position-center">
+								<img src="images/logo_ADFO_v3.jpg" alt="" height="150" />
+							</div>
 						</div>
-						<div class="image-position-center">
-							<img src="images/logo_ADFO_v3.jpg" alt="" height="150" />
-						</div>
-					</div>
 					</section>
 				</div>
 			</section>
-			
+
 			<!-- Support -->
 			<section id="support" class="wrapper style5 spotlights">
 				<div class="inner">
-					<h2 style="color:#2d5997;"><localized-text key="SupportTitle"></localized-text></h2>
+					<h2 style="color:#2d5997;"><localized-text key="Support Title"></localized-text></h2>
 					<hr style="border-top: 1px solid black;">
 					<section>
 						<div class="image-row">
@@ -291,6 +308,49 @@
 					</section>
 				</div>
 			</section>
+
+
+			<section id="test" class="wrapper style1 spotlights">
+				<div class="inner">
+					
+					<section class="tiles">
+						<article class="style7">
+							<span class="image">
+								<img src="images/5300307_small.png" alt="" />
+							</span>
+							<a href="generic.html">
+								<h2>Magna</h2>
+								<div class="content">
+									<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								</div>
+							</a>
+						</article>
+						<article class="style7">
+							<span class="image">
+								<img src="images/5300307_small.png" alt="" />
+							</span>
+							<a href="generic.html">
+								<h2>Lorem</h2>
+								<div class="content">
+									<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								</div>
+							</a>
+						</article>
+						<article class="style7">
+							<span class="image">
+								<img src="images/5300307_small.png" alt="" />
+							</span>
+							<a href="generic.html">
+								<h2>Feugiat</h2>
+								<div class="content">
+									<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+								</div>
+							</a>
+						</article>						
+					</section>
+				</div>
+			</section>
+
 
 		</div>
 
