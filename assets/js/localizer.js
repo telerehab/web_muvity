@@ -20,6 +20,7 @@ var dictionary = {
 
         /*Buttons*/
         "Learn More": "Learn more",
+        "Continue Reading": "Continue reading",
 
         /*Intro*/
         "Intro Title": "Muvity Rehab",
@@ -165,6 +166,7 @@ var dictionary = {
 
             /*Buttons*/
             "Learn More": "Learn more",
+            "Continue Reading": "Continue reading",
 
             /*Intro*/
             "Intro Title": "Muvity Rehab",
@@ -312,6 +314,7 @@ var dictionary = {
 
             /*Buttons*/
             "Learn More": "Saber-ne més",
+            "Continue Reading": "Continua llegint",
 
             /*Intro*/
             "Intro Title": "Muvity Rehabilitació",
@@ -459,6 +462,7 @@ var dictionary = {
 
             /*Buttons*/
             "Learn More": "Saber más",
+            "Continue Reading": "Continúa leyendo",
 
             /*Intro*/
             "Intro Title": "Muvity Rehabilitación",
