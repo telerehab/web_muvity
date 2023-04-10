@@ -92,15 +92,26 @@ var dictionary = {
         "howItWorks.html Paragraph1": "",
 
         ////////// RESEARCH //////////
-        "research.html Title": "",
+        "research.html Title": "Research",
         "research.html Paragraph1": "",
+        "research.html LearnMore": "Learn more",
+        "research.html Section1 Title": "Published articles",
+        "research.html Section1 Article1 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
+        "research.html Section1 Article1 Date": "November 2022",
+        "research.html Section1 Article1 Excerpt": "A feasibility cross-over analysis was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
+        "research.html Section2 Title": "Congresses",
+        "research.html Section2 Article1 Date": "September 2022",
+        "research.html Section2 Article2 Date": "November 2022",
+        "research.html Section2 Article3 Date": "February 2021",
 
         ////////// NEWS //////////
         "news.html Title": "News",
         "news.html Featured": "Featured",
         "news.html Cronologic": "Chronologically",
-        "news.html News1": "Publishing of the article",
-        "news.html News1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
+        "news.html ContinueReading": "Continue reading",
+        "news.html News1": "[NEWS TITLE]",
+        "news.html News1 Info": "[NEWS EXCERPT]",
+        "news.html News1 Date": "[NEWS DATE]",
         
         ////////// MEET THE TEAM //////////
         "meetTheTeam.html Title": "",
@@ -198,15 +209,26 @@ var dictionary = {
         "howItWorks.html Paragraph1": "",
 
         ////////// RESEARCH //////////
-        "research.html Title": "",
+        "research.html Title": "Research",
         "research.html Paragraph1": "",
+        "research.html LearnMore": "Learn more",
+        "research.html Section1 Title": "Published articles",
+        "research.html Section1 Article1 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
+        "research.html Section1 Article1 Date": "November 2022",
+        "research.html Section1 Article1 Excerpt": "A feasibility cross-over analysis was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
+        "research.html Section2 Title": "Congresses",
+        "research.html Section2 Article1 Date": "September 2022",
+        "research.html Section2 Article2 Date": "November 2021",
+        "research.html Section2 Article3 Date": "February 2021",
 
         ////////// NEWS //////////
         "news.html Title": "News",
         "news.html Featured": "Featured",
         "news.html Cronologic": "Chronologically",
-        "news.html News1": "Publishing of the article",
-        "news.html News1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
+        "news.html ContinueReading": "Continue reading",
+        "news.html News1": "[NEWS TITLE]",
+        "news.html News1 Info": "[NEWS EXCERPT]",
+        "news.html News1 Date": "[NEWS DATE]",
 
         ////////// MEET THE TEAM //////////
         "meetTheTeam.html Title": "",
@@ -299,9 +321,18 @@ var dictionary = {
         "aboutMuvity.html Title": "",
         "aboutMuvity.html Paragraph1": "",
 
-        ////////// HOW IT WORKS //////////
-        "howItWorks.html Title": "",
-        "howItWorks.html Paragraph1": "",
+        ////////// RESEARCH //////////
+        "research.html Title": "Investigació",
+        "research.html Paragraph1": "",
+        "research.html LearnMore": "Saber-ne més",
+        "research.html Section1 Title": "Articles publicats",
+        "research.html Section1 Article1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a subjectes crònics després d'un ictus",
+        "research.html Section1 Article1 Date": "Novembre 2022",
+        "research.html Section1 Article1 Excerpt": "Es va realitzar una anàlisi de viabilitat creuada en deu subjectes crònics després d'un ictus. Dos grups aleatoris van seguir dos tractaments de vuit setmanes, un amb el sistema de telerehabilitació Muvity i l'altre després de la teràpia convencional (en ordre aleatori). Abans i després de cada tractament, es van realitzar avaluacions físiques avaluant la independència funcional, el nivell de dolor percebut, el control de l'equilibri i l'estat de salut autoinformat. Després de l'estudi, els participants van respondre un breu qüestionari per mesurar la usabilitat del sistema.",
+        "research.html Section2 Title": "Congressos",
+        "research.html Section2 Article1 Date": "Setembre 2022",
+        "research.html Section2 Article2 Date": "Novembre 2021",
+        "research.html Section2 Article3 Date": "Febrer 2021",
 
         ////////// RESEARCH //////////
         "research.html Title": "",
@@ -311,8 +342,10 @@ var dictionary = {
         "news.html Title": "Notícies",
         "news.html Featured": "Destacat",
         "news.html Cronologic": "Cronològicament",
-        "news.html News1": "Publicació de l'article",
-        "news.html News1 Info": "Avaluar la viabilitat d'un sistema de telerehabilitació per a subjectes crònics post-ictus en comparació amb un tractament convencional.",
+        "news.html ContinueReading": "Segueix llegint",
+        "news.html News1": "[NEWS TITLE]",
+        "news.html News1 Info": "[NEWS EXCERPT]",
+        "news.html News1 Date": "[NEWS DATE]",
 
         ////////// MEET THE TEAM //////////
         "meetTheTeam.html Title": "",
@@ -410,15 +443,26 @@ var dictionary = {
         "howItWorks.html Paragraph1": "",
 
         ////////// RESEARCH //////////
-        "research.html Title": "",
+        "research.html Title": "Investigación",
         "research.html Paragraph1": "",
+        "research.html LearnMore": "Saber más",
+        "research.html Section1 Title": "Artículos publicados",
+        "research.html Section1 Article1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para sujetos crónicos que han sufrido un ictus",
+        "research.html Section1 Article1 Date": "Noviembre 2022",
+        "research.html Section1 Article1 Excerpt": "Se realizó un análisis cruzado de factibilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
+        "research.html Section2 Title": "Congresos",
+        "research.html Section2 Article1 Date": "Septiembre 2022",
+        "research.html Section2 Article2 Date": "Noviembre 2021",
+        "research.html Section2 Article3 Date": "Febrero 2021",
 
         ////////// NEWS //////////
         "news.html Title": "Noticias",
         "news.html Featured": "Destacado",
         "news.html Cronologic": "Cronológicamente",
-        "news.html News1": "Publicación del artículo",
-        "news.html News1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos crónicos postictus frente a un tratamiento convencional.",
+        "news.html ContinueReading": "Sigue leyendo",
+        "news.html News1": "[NEWS TITLE]",
+        "news.html News1 Info": "[NEWS EXCERPT]",
+        "news.html News1 Date": "[NEWS DATE]",
 
         ////////// MEET THE TEAM //////////
         "meetTheTeam.html Title": "",
