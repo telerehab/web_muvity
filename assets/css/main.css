@@ -349,6 +349,43 @@ input, select, textarea {
 		text-align: right;
 	}
 
+
+/* Container */
+
+.container {
+	margin: 0 auto;
+	max-width: 100%;
+	width: 1200px;
+}
+
+@media screen and (max-width: 1680px) {
+
+	.container {
+		width: 1200px;
+	}
+}
+
+@media screen and (max-width: 1280px) {
+
+	.container {
+		width: calc(100% - 40px);
+	}
+}
+
+@media screen and (max-width: 980px) {
+
+	.container {
+		width: calc(100% - 50px);
+	}
+}
+
+@media screen and (max-width: 736px) {
+
+	.container {
+		width: calc(100% - 40px);
+	}
+}
+
 /* Row */
 
 	.row {
