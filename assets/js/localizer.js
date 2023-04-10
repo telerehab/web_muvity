@@ -146,7 +146,7 @@ var dictionary = {
         //// Jordi Torner
         "meetTheTeam.html Jordi Education": "PhD in Multimedia Engineering, Bachelor in Multimedia Engineering, Degree in Psychology",
         "meetTheTeam.html Jordi Task": "Feedback in multimedia applications",
-
+    },
         // ENGLISH
         "en": {
             /*Title*/
@@ -587,7 +587,7 @@ var dictionary = {
             "meetTheTeam.html Jordi Task": "Consultoría en el desarrollo de archivos multimedia",
 
         }
-    }
+    
 }
 
 
@@ -603,20 +603,20 @@ class LocalizedTextElement extends HTMLElement {
     }
 
     connectedCallback() {
-        var key = this.hasAttribute('key') ? this.getAttribute('key') : ''; 
+        var key = this.hasAttribute('key') ? this.getAttribute('key') : '';
         var lang = this.hasAttribute('lang') ? this.getAttribute('lang') : this.getLang();
         this.innerHTML = this.translate(key, lang);
     }
 
     getLang() {
-        var lang = (navigator.languages != undefined)?navigator.languages[0]:navigator.language;
+        var lang = (navigator.languages != undefined) ? navigator.languages[0] : navigator.language;
         // Ignore country code (example: en-US -> en)
         return lang.split("-")[0];
     }
-    
+
     translate(key, lang) {
-        return (lang in dictionary)?dictionary[lang][key]:dictionary['_'][key];
+        return (lang in dictionary) ? dictionary[lang][key] : dictionary['_'][key];
     }
 }
-  
+
 new HTMLLocalizer();
