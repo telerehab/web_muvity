@@ -314,7 +314,7 @@ var dictionary = {
 
             /*Buttons*/
             "Learn More": "Saber-ne més",
-            "Continue Reading": "Continua llegint",
+            "Continue Reading": "Segueix llegint",
 
             /*Intro*/
             "Intro Title": "Muvity Rehabilitació",
@@ -462,7 +462,7 @@ var dictionary = {
 
             /*Buttons*/
             "Learn More": "Saber más",
-            "Continue Reading": "Continúa leyendo",
+            "Continue Reading": "Sigue leyendo",
 
             /*Intro*/
             "Intro Title": "Muvity Rehabilitación",
