@@ -49,39 +49,6 @@ var dictionary = {
         /*Meet the team*/
         "Meet The Team Title": "Meet the Team",
         "Meet The Team Paragraph1": "Behind Muvity there is a multidiscipliary team with expertise in various fields, with researchers from the UPC and therapists from ADFO.",
-		"meetTheTeam.html Title": "Meet the team",
-        "meetTheTeam.html Paragraph1": "The app is developed by a team of designers, programmers, rehabilitation therapists, researchers, and more!",
-        //// Andrés García Orozco
-        "meetTheTeam.html Andres Education": "Biomedical Engineer",
-        "meetTheTeam.html Andres Task": "Software Developer",
-        //// Carles Margelí
-        "meetTheTeam.html Carles Education": "Bachelor in Videogame Development",
-        "meetTheTeam.html Carles Task": "Software Developer Leader",
-        //// Marc Marot
-        "meetTheTeam.html Marc Education": "Bachelor of Business Administration, Master in Videogame development",
-        "meetTheTeam.html Marc Task": "Software Developer",
-        //// Cris Molas-Ferrer
-        "meetTheTeam.html Cris Education": "Physiotherapy, Master in Translational Physiotherapy Research, PhD candidate in Multidisciplinary Medicine and Rehabilitation",
-        "meetTheTeam.html Cris Task": "Conceptual designer and tester",
-        //// Alejandro Moreno
-        "meetTheTeam.html Alejandro Education": "Bachelor student in Videogame Development",
-        "meetTheTeam.html Alejandro Task": "Software Developer",
-        //// Júlia Monràs
-        "meetTheTeam.html Julia Education": "Physiotherapy",
-        "meetTheTeam.html Julia Task": "Conceptual designer and tester",
-        //// Núria Lamonja
-        "meetTheTeam.html Nuria Education": "Bachelor student in Videogame Development",
-        "meetTheTeam.html Nuria Task": "Software Developer and Designer, Website",
-        //// Ariadna Pamplona
-        "meetTheTeam.html Ariadna Education": "Educational Therapist",
-        "meetTheTeam.html Ariadna Task": "Project manager",
-        //// Gil Serrancolí
-        "meetTheTeam.html Gil Education": "Mechanical Engineer, PhD in biomedical engineering",
-        "meetTheTeam.html Gil Task": "Project manager",
-        //// Jordi Torner
-        "meetTheTeam.html Jordi Education": "PhD in Multimedia Engineering, Bachelor in Multimedia Engineering, Degree in Psychology",
-        "meetTheTeam.html Jordi Task": "Feedback in multimedia applications",
-
 
         /*News*/
         "News Title": "News",
@@ -162,39 +129,7 @@ var dictionary = {
         /*Meet the team*/
         "Meet The Team Title": "Meet the Team",
         "Meet The Team Paragraph1": "Behind Muvity there is a multidiscipliary team with expertise in various fields, with researchers from the UPC and therapists from ADFO.",
-		"meetTheTeam.html Title": "Meet the team",
-		"meetTheTeam.html Paragraph1": "The app is developed by a team of designers, programmers, rehabilitation therapists, researchers, and more!",
-		//// Andrés García Orozco
-		"meetTheTeam.html Andres Education": "Biomedical Engineer",
-		"meetTheTeam.html Andres Task": "Software Developer",
-		//// Carles Margelí
-		"meetTheTeam.html Carles Education": "Bachelor in Videogame Development",
-		"meetTheTeam.html Carles Task": "Software Developer Leader",
-		//// Marc Marot
-		"meetTheTeam.html Marc Education": "Bachelor of Business Administration, Master in Videogame development",
-		"meetTheTeam.html Marc Task": "Software Developer",
-		//// Cris Molas-Ferrer
-		"meetTheTeam.html Cris Education": "Physiotherapy, Master in Translational Physiotherapy Research, PhD candidate in Multidisciplinary Medicine and Rehabilitation",
-		"meetTheTeam.html Cris Task": "Conceptual designer and tester",
-		//// Alejandro Moreno
-		"meetTheTeam.html Alejandro Education": "Bachelor student in Videogame Development",
-		"meetTheTeam.html Alejandro Task": "Software Developer",
-		//// Júlia Monràs
-		"meetTheTeam.html Julia Education": "Physiotherapy",
-		"meetTheTeam.html Julia Task": "Conceptual designer and tester",
-		//// Núria Lamonja
-		"meetTheTeam.html Nuria Education": "Bachelor student in Videogame Development",
-		"meetTheTeam.html Nuria Task": "Software Developer and Designer, Website",
-		//// Ariadna Pamplona
-		"meetTheTeam.html Ariadna Education": "Educational Therapist",
-		"meetTheTeam.html Ariadna Task": "Project manager",
-		//// Gil Serrancolí
-		"meetTheTeam.html Gil Education": "Mechanical Engineer, PhD in biomedical engineering",
-		"meetTheTeam.html Gil Task": "Project manager",
-		//// Jordi Torner
-		"meetTheTeam.html Jordi Education": "PhD in Multimedia Engineering, Bachelor in Multimedia Engineering, Degree in Psychology",
-		"meetTheTeam.html Jordi Task": "Feedback in multimedia applications",
-			
+
         /*News*/
         "News Title": "News",
         /*Sections*/
@@ -264,7 +199,7 @@ var dictionary = {
         "Research Title": "Investigació",
         "Research Paragraph1": "En la següent secció es pot conèixer la recerca en la qual es basa aquesta iniciativa.",
         /*Sections*/
-        "Research Section1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a persones que han patit un ictus i es troben en fase crònica",
+        "Research Section1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a subjectes crònics després d'un ictus",
         "Research Section1 Info": "Es va realitzar una anàlisi de viabilitat creuada en deu subjectes crònics després d'un ictus. Dos grups aleatoris van seguir dos tractaments de vuit setmanes, un amb el sistema de telerehabilitació Muvity i l'altre després de la teràpia convencional (en ordre aleatori). Abans i després de cada tractament, es van realitzar avaluacions físiques avaluant la independència funcional, el nivell de dolor percebut, el control de l'equilibri i l'estat de salut autoinformat. Després de l'estudi, els participants van respondre un breu qüestionari per mesurar la usabilitat del sistema.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
@@ -274,39 +209,7 @@ var dictionary = {
         /*Meet the team*/
         "Meet The Team Title": "Coneix l'equip",
         "Meet The Team Paragraph1": "Darrere de Muvity hi ha un equip multidisciplinar amb experiència en diferents camps, amb investigadors de la UPC i terapeutes d'ADFO.",
-		"meetTheTeam.html Title": "Coneix l'equip",
-		"meetTheTeam.html Paragraph1": "L'aplicació la desenvolupa un equip de dissenyadors, programadors, terapeutes de rehabilitació, investigadors, i més!",
-		//// Andrés García Orozco
-		"meetTheTeam.html Andres Education": "Enginyer biomèdic",
-		"meetTheTeam.html Andres Task": "Desenvolupament de software",
-		//// Carles Margelí
-		"meetTheTeam.html Carles Education": "Graduat en disseny i desenvolupament de videojocs",
-		"meetTheTeam.html Carles Task": "Líder de desenvolupament de software",
-		//// Marc Marot
-		"meetTheTeam.html Marc Education": "Graduat d'Administració d'empreses, Màster en desenvolupament de videojocs",
-		"meetTheTeam.html Marc Task": "Desenvolupament de software",
-		//// Cris Molas-Ferrer
-		"meetTheTeam.html Cris Education": "Fisioteràpia, Màster en Investigació Translacional en Fisioteràpia, Doctorant en Medicina multidisciplinar i rehabilitació",
-		"meetTheTeam.html Cris Task": "Disseny conceptual i tester",
-		//// Alejandro Moreno
-		"meetTheTeam.html Alejandro Education": "Estudiant de disseny i desenvolupament de videojocs",
-		"meetTheTeam.html Alejandro Task": "Desenvolupament de software",
-		//// Júlia Monràs
-		"meetTheTeam.html Julia Education": "Fisioteràpia",
-		"meetTheTeam.html Julia Task": "Disseny conceptual i tester",
-		//// Núria Lamonja
-		"meetTheTeam.html Nuria Education": "Estudiant de disseny i desenvolupament de videojocs",
-		"meetTheTeam.html Nuria Task": "Desenvolupament i disseny software, pàgina web",
-		//// Ariadna Pamplona
-		"meetTheTeam.html Ariadna Education": "Terapeuta educacional",
-		"meetTheTeam.html Ariadna Task": "Direcció del projecte",
-		//// Gil Serrancolí
-		"meetTheTeam.html Gil Education": "Enginyer mecànic, Doctorat en Enginyeria biomèdica",
-		"meetTheTeam.html Gil Task": "Direcció del projecte",
-		//// Jordi Torner
-		"meetTheTeam.html Jordi Education": "Doctorat en Enginyeria multimèdia, Graduat en Enginyeria multimèdia, Graduat en psicologia",
-		"meetTheTeam.html Jordi Task": "Consultoria en el desenvolupament d'arxius multimèdia",
-			
+
         /*News*/
         "News Title": "Notícies",
         /*Sections*/
@@ -361,7 +264,7 @@ var dictionary = {
 
         /*About*/
         "About Title": "Sobre Muvity",
-        "About Paragraph1": "Muvity es una aplicación de rehabilitación que promueve la participación activa del usuario en su propia rehabilitación, y es una herramienta para los fisioterapeutas para hacer el seguimiento de sus pacientes.",
+        "About Paragraph1": "Muvity es una aplicación de rehabilitación que promueve la participación activa del usuario en su propia rehabilitación, y es una herramienta para lso fisioterapeutas para hacer el seguimiento de sus pacientes.",
         /*Sections*/
         "About Section Rehab": "Rehabilitación",
         "About Section Customizable": "Customizable",
@@ -375,10 +278,9 @@ var dictionary = {
         /*Research*/
         "Research Title": "Investigación",
         "Research Paragraph1": "En la siguiente sección podéis conocer la investigación en la cual se basa esta iniciativa.",
-		
         /*Sections*/
-        "Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y están en fase crónica",
-        "Research Section1 Info": "Se realizó un análisis cruzado de viabilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
+        "Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para sujetos crónicos que han sufrido un ictus",
+        "Research Section1 Info": "Se realizó un análisis cruzado de factibilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
         "Research Section3 Title": "",
@@ -387,44 +289,12 @@ var dictionary = {
         /*Meet the team*/
         "Meet The Team Title": "Conoce al equipo",
         "Meet The Team Paragraph1": "Detrás de Muvity hay un equipo multidisciplinar con experiencia en varios campos, con investigadores de la UPC y terapeutas de ADFO.",
-		"meetTheTeam.html Title": "Conoce al equipo",
-		"meetTheTeam.html Paragraph1": "La aplicación la desarrolla un equipo de diseñadores, programadores, terapeutas de rehabilitación, investigadores, i más!",
-		//// Andrés García Orozco
-		"meetTheTeam.html Andres Education": "Ingeniero biomédico",
-		"meetTheTeam.html Andres Task": "Desarrollo de software",
-		//// Carles Margelí
-		"meetTheTeam.html Carles Education": "Graduado en diseño y desarrollo de videojuegos",
-		"meetTheTeam.html Carles Task": "Líder de desarrollo de software",
-		//// Marc Marot
-		"meetTheTeam.html Marc Education": "Graduado de Administración de empresas, Máster en desarrollo de videojuegos",
-		"meetTheTeam.html Marc Task": "Desarrollo de software",
-		//// Cris Molas-Ferrer
-		"meetTheTeam.html Cris Education": "Fisioterapia, Máster en Investigación Translacional en Fisioterapia, Doctorando en Medicina multidisciplinar y rehabilitación",
-		"meetTheTeam.html Cris Task": "Diseño conceptual y tester",
-		//// Alejandro Moreno
-		"meetTheTeam.html Alejandro Education": "Estudiante de diseño y desarrollo de videojuegos",
-		"meetTheTeam.html Alejandro Task": "Desarrollo de software",
-		//// Júlia Monràs
-		"meetTheTeam.html Julia Education": "Fisioterapia",
-		"meetTheTeam.html Julia Task": "Diseño conceptual y tester",
-		//// Núria Lamonja
-		"meetTheTeam.html Nuria Education": "Estudiante de diseño y desarrollo de videojuegos",
-		"meetTheTeam.html Nuria Task": "Desarrollo y diseño de software, página web",
-		//// Ariadna Pamplona
-		"meetTheTeam.html Ariadna Education": "Terapeuta educacional",
-		"meetTheTeam.html Ariadna Task": "Dirección del proyecto",
-		//// Gil Serrancolí
-		"meetTheTeam.html Gil Education": "Ingeniero mecánico, Doctorado en Ingeniería biomédica",
-		"meetTheTeam.html Gil Task": "Dirección del proyecto",
-		//// Jordi Torner
-		"meetTheTeam.html Jordi Education": "Doctorado en Ingeniería multimedia, Graduado en Ingeniería multimedia, Graduado en psicología",
-		"meetTheTeam.html Jordi Task": "Consultoría en el desarrollo de archivos multimedia",
-			
+
         /*News*/
         "News Title": "Noticias",
         /*Sections*/
         "News Section1 Title": "Artículo publicado",
-        "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos postictus frente a un tratamiento convencional.",
+        "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos crónicos postictus frente a un tratamiento convencional.",
         "News Section2 Title": "",
         "News Section2 Info": "",
         "News Section3 Title": "",
@@ -450,6 +320,7 @@ var dictionary = {
 		/*Support*/
 		"SupportTitle": "Con el soporte de:"
     }
+
 }
 
 class HTMLLocalizer {
