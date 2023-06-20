@@ -199,7 +199,7 @@ var dictionary = {
         "Research Title": "Investigació",
         "Research Paragraph1": "En la següent secció es pot conèixer la recerca en la qual es basa aquesta iniciativa.",
         /*Sections*/
-        "Research Section1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a subjectes crònics després d'un ictus",
+        "Research Section1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a persones que han patit un ictus i es troben en fase crònica",
         "Research Section1 Info": "Es va realitzar una anàlisi de viabilitat creuada en deu subjectes crònics després d'un ictus. Dos grups aleatoris van seguir dos tractaments de vuit setmanes, un amb el sistema de telerehabilitació Muvity i l'altre després de la teràpia convencional (en ordre aleatori). Abans i després de cada tractament, es van realitzar avaluacions físiques avaluant la independència funcional, el nivell de dolor percebut, el control de l'equilibri i l'estat de salut autoinformat. Després de l'estudi, els participants van respondre un breu qüestionari per mesurar la usabilitat del sistema.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
@@ -264,7 +264,7 @@ var dictionary = {
 
         /*About*/
         "About Title": "Sobre Muvity",
-        "About Paragraph1": "Muvity es una aplicación de rehabilitación que promueve la participación activa del usuario en su propia rehabilitación, y es una herramienta para lso fisioterapeutas para hacer el seguimiento de sus pacientes.",
+        "About Paragraph1": "Muvity es una aplicación de rehabilitación que promueve la participación activa del usuario en su propia rehabilitación, y es una herramienta para los fisioterapeutas para hacer el seguimiento de sus pacientes.",
         /*Sections*/
         "About Section Rehab": "Rehabilitación",
         "About Section Customizable": "Customizable",
@@ -279,8 +279,8 @@ var dictionary = {
         "Research Title": "Investigación",
         "Research Paragraph1": "En la siguiente sección podéis conocer la investigación en la cual se basa esta iniciativa.",
         /*Sections*/
-        "Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para sujetos crónicos que han sufrido un ictus",
-        "Research Section1 Info": "Se realizó un análisis cruzado de factibilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
+        "Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y están en fase crónica",
+        "Research Section1 Info": "Se realizó un análisis cruzado de viabilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
         "Research Section3 Title": "",
@@ -294,7 +294,7 @@ var dictionary = {
         "News Title": "Noticias",
         /*Sections*/
         "News Section1 Title": "Artículo publicado",
-        "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos crónicos postictus frente a un tratamiento convencional.",
+        "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos postictus frente a un tratamiento convencional.",
         "News Section2 Title": "",
         "News Section2 Info": "",
         "News Section3 Title": "",
@@ -320,7 +320,6 @@ var dictionary = {
 		/*Support*/
 		"SupportTitle": "Con el soporte de:"
     }
-
 }
 
 class HTMLLocalizer {
