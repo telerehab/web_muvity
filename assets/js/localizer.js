@@ -85,11 +85,13 @@ var dictionary = {
         /*News*/
         "News Title": "News",
         /*Sections*/
-        "News Section1 Title": "Published article",
-        "News Section1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
-        "News Section2 Title": "",
-        "News Section2 Info": "",
-        "News Section3 Title": "",
+		"News Section1 Title": "Presentation at the Mental Health Innovation Day",
+        "News Section1 Info": "25/10/2022 Muvity was showcased at the first Mental Health Innovation Day organized by the Catalan research net in mental health TECSAM. The event, held at the Barcelona Science Park, showcased the state-of-the-art projects developed by members of TECSAM, gathering together clinical staff, biomedical engineers and staff from innovation clinical areas of the main hospitals in Catalonia",
+		"News Section1 Info2": "Follow the link for more information about the event", 
+        "News Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
+        "News Section2 Info": "01/11/2022 A feasibility cross-over study was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
+        "News Section2 Info2": "Read the article",
+		"News Section3 Title": "",
         "News Section3 Info": "",
 
         /*Contact*/
@@ -151,10 +153,11 @@ var dictionary = {
         "Research Title": "Research",
         "Research Paragraph1": "In the following section you can take a deeper look on the papers and research this initiative is based on.",
         /*Sections*/
-        "Research Section1 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
-        "Research Section1 Info": "A feasibility cross-over analysis was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
-        "Research Section2 Title": "",
-        "Research Section2 Info": "",
+		"Research Section1 Title": "",
+        "Research Section1 Info": "",
+		"Research Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
+        "Research Section2 Info": "A feasibility cross-over analysis was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
+
         "Research Section3 Title": "",
         "Research Section3 Info": "",
 
@@ -197,11 +200,13 @@ var dictionary = {
         /*News*/
         "News Title": "News",
         /*Sections*/
-        "News Section1 Title": "Published article",
-        "News Section1 Info": "To assess the feasibility of a telerehabilitation system for chronic post-stroke subjects compared to a conventional treatment.",
-        "News Section2 Title": "",
-        "News Section2 Info": "",
-        "News Section3 Title": "",
+        "News Section1 Title": "Presentation at the Mental Health Innovation Day",
+        "News Section1 Info": "25/10/2022 Muvity was showcased at the first Mental Health Innovation Day organized by the Catalan research net in mental health TECSAM. The event, held at the Barcelona Science Park, showcased the state-of-the-art projects developed by members of TECSAM, gathering together clinical staff, biomedical engineers and staff from innovation clinical areas of the main hospitals in Catalonia",
+		"News Section1 Info2": "Follow the link for more information about the event", 
+        "News Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
+        "News Section2 Info": "01/11/2022 A feasibility cross-over study was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
+        "News Section2 Info2": "Read the article",
+		"News Section3 Title": "",
         "News Section3 Info": "",
 
         /*Contact*/
@@ -309,11 +314,13 @@ var dictionary = {
         /*News*/
         "News Title": "Notícies",
         /*Sections*/
-        "News Section1 Title": "Article publicat",
-        "News Section1 Info": "Avaluar la viabilitat d'un sistema de telerehabilitació per a subjectes crònics post-ictus en comparació amb un tractament convencional.",
-        "News Section2 Title": "",
-        "News Section2 Info": "",
-        "News Section3 Title": "",
+		"News Section1 Title": "Presentació al Mental Health Innovation Day",
+        "News Section1 Info": "25/10/2022 Es va presentar el sistema de telerehabilitació Muvity al primer Mental Health Innovation Day organitzat per la xarxa d'investigació en salut mental TECSAM. L'esdeveniment al Parc Scientífic de Barcelona va mostrar els principals projectes innovadors desenvolupats pels membres de la xarxa TECSAM, acollint personal clínic, enginyers biomèdics i personal del servei d'innovació dels principals hospitals de Catalunya",
+		"News Section1 Info2": "Més informació al link", 
+		"News Section2 Title": "Estudi de viabilitat per avaluar l'efectivitat de Muvity: un sistema de telerehabilitació per persones que han patit un ictus i es troben en fase crònica",
+		"News Section2 Info": "01/11/2022 Estudi creuat de viabilitat en deu persones que havien patit un ictus i es trobaven en fase crònica. Dos grups van seguir dos tractaments de vuit setmanes cadascun (en ordre aleatori), un utilitzant el sistema de telerehabilitació Muvity i l'altre seguint una teràpia convencional. Abans i després del tractament, es van portar a terme avaluacions físiques d'independència funcional, el nivell percebut de dolor, el control del balanceig i l'estat de salut autoreportat. Després de l'estudi, els participants van respondre un qüestionari per tal d'avaluar l'usabilitat del sistema",
+        "News Section2 Info2": "Llegeix l'article",
+		"News Section3 Title": "",
         "News Section3 Info": "",
 
         /*Contact*/
@@ -421,11 +428,13 @@ var dictionary = {
         /*News*/
         "News Title": "Noticias",
         /*Sections*/
-        "News Section1 Title": "Artículo publicado",
-        "News Section1 Info": "Evaluar la viabilidad de un sistema de telerehabilitación para sujetos postictus frente a un tratamiento convencional.",
-        "News Section2 Title": "",
-        "News Section2 Info": "",
-        "News Section3 Title": "",
+		"News Section1 Title": "Presentació al Mental Health Innovation Day",
+        "News Section1 Info": "25/10/2022 Se presentó el sistema de telerehabilitación Muvity al primer Mental Health Innovation Day organizado por la red de investigación en salud mental TECSAM. En el acontecimiento, llevado a cabo al Parque Científico de Barcelona, se mostraron los principales proyectos innovadores desarrollados por miembros de la red TECSAM, acogiendo personal clínico, ingenieros biomédicos y personal del servicio de innovación de los principales hospitales de Cataluña",
+        "News Section1 Info2": "Más información al link", 
+		"News Section2 Title": "Estudio de viabilidad para evaluar la efectividad de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y se encuentran en fase crónica",
+ 		"News Section2 Info": "01/11/2022 Estudio cruzado de viabilidad en diez personas que habían sufrido un ictus y se encontraban en fase crónica. Dos grupos siguieron dos tratamientos de ocho semanas cada uno (en orden aleatorio), uno utilizando el sistema de telerehabilitación Muvity y el otro siguiendo una terapia convencional. Antes y después del tratamiento, se llevaron a cabo evaluaciones de independencia funcional, del nivel percebido de dolor, del control del balanceo y del estado de salud autoreportado. Después del estudio, los participantes respondieron un cuestionario para evaluar la usabilidad del sistema",
+		"News Section2 Info2": "Lee el artículo",
+		"News Section3 Title": "",
         "News Section3 Info": "",
 
         /*Contact*/
