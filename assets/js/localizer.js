@@ -81,6 +81,12 @@ var dictionary = {
         //// Jordi Torner
         "meetTheTeam.html Jordi Education": "PhD in Multimedia Engineering, Bachelor in Multimedia Engineering, Degree in Psychology",
         "meetTheTeam.html Jordi Task": "Feedback in multimedia applications",
+		//// Ricard Sarrate
+		"meetTheTeam.html Ricard Education": "Bachelor of Business Administration",
+		"meetTheTeam.html Ricard Task": "Business manager",
+		//// Albert Mas
+		"meetTheTeam.html Albert Education": "Bachelor in Videogame Development",
+		"meetTheTeam.html Albert Task": "Software Developer",
 		
         /*News*/
         "News Title": "News",
@@ -200,6 +206,12 @@ var dictionary = {
         //// Jordi Torner
         "meetTheTeam.html Jordi Education": "PhD in Multimedia Engineering, Bachelor in Multimedia Engineering, Degree in Psychology",
         "meetTheTeam.html Jordi Task": "Feedback in multimedia applications",
+		//// Ricard Sarrate
+		"meetTheTeam.html Ricard Education": "Bachelor of Business Administration",
+		"meetTheTeam.html Ricard Task": "Business manager",
+		//// Albert Mas
+		"meetTheTeam.html Albert Education": "Bachelor in Videogame Development",
+		"meetTheTeam.html Albert Task": "Software Developer",
 		
         /*News*/
         "News Title": "News",
@@ -318,6 +330,13 @@ var dictionary = {
 		//// Jordi Torner
 		"meetTheTeam.html Jordi Education": "Doctorat en Enginyeria multimèdia, Graduat en Enginyeria multimèdia, Graduat en psicologia",
 		"meetTheTeam.html Jordi Task": "Consultoria en el desenvolupament d'arxius multimèdia",
+		//// Ricard Sarrate
+		"meetTheTeam.html Ricard Education": "Administració i direcció d'empreses",
+		"meetTheTeam.html Ricard Task": "Gestor empresarial",
+		//// Albert Mas
+		"meetTheTeam.html Albert Education": "Graduat en disseny i desenvolupament de videojocs",
+		"meetTheTeam.html Albert Task": "Desenvolupament de software",
+		
 		
         /*News*/
         "News Title": "Notícies",
@@ -437,6 +456,12 @@ var dictionary = {
 		//// Jordi Torner
 		"meetTheTeam.html Jordi Education": "Doctorado en Ingeniería multimedia, Graduado en Ingeniería multimedia, Graduado en psicología",
 		"meetTheTeam.html Jordi Task": "Consultoría en el desarrollo de archivos multimedia",
+		//// Ricard Sarrate
+		"meetTheTeam.html Ricard Education": "Graduado de Administración de empresas",
+		"meetTheTeam.html Ricard Task": "Gestor empresarial",
+		//// Albert Mas
+		"meetTheTeam.html Albert Education": "Graduado en diseño y desarrollo de videojuegos",
+		"meetTheTeam.html Albert Task": "Desarrollo de software",
 		
         /*News*/
         "News Title": "Noticias",
