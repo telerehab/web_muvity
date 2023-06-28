@@ -91,9 +91,13 @@ var dictionary = {
         "News Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
         "News Section2 Info": "01/11/2022 A feasibility cross-over study was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
         "News Section2 Info2": "Read the article",
-		"News Section3 Title": "",
-        "News Section3 Info": "",
-
+		"News Section3 Title": "Muvity joins the CIMTI Impact Program",
+        "News Section3 Info": "01/03/2023 Muvity has joined the Impact Program of the Center for the Integration of Medicine and Innovative Technologies. The Impact Program is an acceleration program for innovative projects in the health and social field aimed at projects in phase 3-5 of the Health Innovation Cycle. Muvity will receive support in the conceptualization stages of the project, in the arrival to the market and in the implementation in the health and social system following the CIMTI own methodology, the Health Innovation Cycle. CIMTI methodology has been adapted from CIMIT Boston’s Healthcare Innovation Cycle which, with more than 30 years of experience in healthcare innovation, ensures efficient development of solutions and reduces the risk of failure. The Impact Program, with a duration of 15 months, is estimated to help project teams advance between 1 and 2 phases of the Health Innovation Cycle.",
+		"News Section3 Info2": "For more information, visit the CIMTI website",
+		"News Section4 Title": "Presentation of Muvity to the Catalan Gobernment",
+        "News Section4 Info": "01/04/2023 The President of the Catalan Government, Pere Aragonès, and the Councillor of Social Rights, Carles Campuzano, visited the ADFO facilities in Vic to learn about the Muvity project. The project has recently received funding from the Department for Social Rights as part of a Next Generation Project, which focuses on technologies applied to assist and provide healthcare to people. During the visit, the Councillor had the opportunity to meet with the Muvity team and experience first-hand the functionality of the telerehabilitation system. Additionally, during the same event, ADFOCET presented the SACSAC project. The event included speeches by the President of ADFO, the President of the Catalan Government, the Councillor of Social Rights, and the Mayor of the city of Vic.",
+		"News Section4 Info2": "For more information visit ADFO website",
+		
         /*Contact*/
         "Contact Title": "Contact",
         "Contact Paragraph1": "If you want to learn more about what we do or if you would like to collaborate, please do contact us.",
@@ -206,9 +210,13 @@ var dictionary = {
         "News Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
         "News Section2 Info": "01/11/2022 A feasibility cross-over study was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
         "News Section2 Info2": "Read the article",
-		"News Section3 Title": "",
-        "News Section3 Info": "",
-
+		"News Section3 Title": "Muvity joins the CIMTI Impact Program",
+        "News Section3 Info": "01/03/2023 Muvity has joined the Impact Program of the Center for the Integration of Medicine and Innovative Technologies. The Impact Program is an acceleration program for innovative projects in the health and social field aimed at projects in phase 3-5 of the Health Innovation Cycle. Muvity will receive support in the conceptualization stages of the project, in the arrival to the market and in the implementation in the health and social system following the CIMTI own methodology, the Health Innovation Cycle. CIMTI methodology has been adapted from CIMIT Boston’s Healthcare Innovation Cycle which, with more than 30 years of experience in healthcare innovation, ensures efficient development of solutions and reduces the risk of failure. The Impact Program, with a duration of 15 months, is estimated to help project teams advance between 1 and 2 phases of the Health Innovation Cycle.",
+		"News Section3 Info2": "For more information, visit the CIMTI website",
+		"News Section4 Title": "Presentation of Muvity to the Catalan Gobernment",
+        "News Section4 Info": "01/04/2023 The President of the Catalan Government, Pere Aragonès, and the Councillor of Social Rights, Carles Campuzano, visited the ADFO facilities in Vic to learn about the Muvity project. The project has recently received funding from the Department for Social Rights as part of a Next Generation Project, which focuses on technologies applied to assist and provide healthcare to people. During the visit, the Councillor had the opportunity to meet with the Muvity team and experience first-hand the functionality of the telerehabilitation system. Additionally, during the same event, ADFOCET presented the SACSAC project. The event included speeches by the President of ADFO, the President of the Catalan Government, the Councillor of Social Rights, and the Mayor of the city of Vic.",
+		"News Section4 Info2": "For more information visit ADFO website",
+		
         /*Contact*/
         "Contact Title": "Contact",
         "Contact Paragraph1": "If you want to learn more about what we do or if you would like to collaborate, please do contact us.",
@@ -320,8 +328,13 @@ var dictionary = {
 		"News Section2 Title": "Estudi de viabilitat per avaluar l'efectivitat de Muvity: un sistema de telerehabilitació per persones que han patit un ictus i es troben en fase crònica",
 		"News Section2 Info": "01/11/2022 Estudi creuat de viabilitat en deu persones que havien patit un ictus i es trobaven en fase crònica. Dos grups van seguir dos tractaments de vuit setmanes cadascun (en ordre aleatori), un utilitzant el sistema de telerehabilitació Muvity i l'altre seguint una teràpia convencional. Abans i després del tractament, es van portar a terme avaluacions físiques d'independència funcional, el nivell percebut de dolor, el control del balanceig i l'estat de salut autoreportat. Després de l'estudi, els participants van respondre un qüestionari per tal d'avaluar l'usabilitat del sistema",
         "News Section2 Info2": "Llegeix l'article",
-		"News Section3 Title": "",
-        "News Section3 Info": "",
+		"News Section3 Title": "Muvity entra al Programa Impacte de CIMTI",
+        "News Section3 Info": "01/03/2023 Muvity ha entrat al Programa Impacte del Centre per a la Integració de la Medicina i les Tecnologies Innovadores. El Programa Impacte és un programa d'acceleració de projectes d'innovació del sector sanitari i social, orientat a projectes que es troben entre les fases 3-5 del Health Innovation Cycle. Muvity rebrà suport i mentories en fases de conceptualització del projecte, en la sortida al mercat, i en la implementació als sistemes sanitari i social seguint la metodologia pròpia del CIMTI, el Health Innovation Cycle. La metodologia de CIMTI ha estat adaptada del CIMIT Boston’s Healthcare Innovation Cycle que, amb més de 30 anys d'experiència al sector d'innovació sanitari, assegura un desenolvupament eficient de solucions i disminueix el risc de fallada. El Programa Impacte, amb una durada de 15 mesos, preveu ajudar als equips dels projectes a avançar entre una i dues fases del Health Innovation Cycle.",
+		"News Section3 Info2": "Per més informació, visiteu la web de CIMTI",
+		"News Section4 Title": "Presentació de Muvity a membres del govern de la Generalitat de Catalunya",
+        "News Section4 Info": "01/04/2023 El President de la Generalitat de Catalunya, Pere Aragonès, i el Conseller del Departament de Drets Socials, Carles Campuzano, van visitar les instal·lacions d'ADFO a Vic per conèixer de primera mà el projecte Muvity. El projecte ha obtingut recentment finançament del Departament de Drets Socials d'un projecte Next Generation, per aplicar tecnologia al servei de l’atenció i la cura de les persones. Durant la visita, el Conseller va tenir l'oportunitat de trobar-se amb l'equip de Muvity i cònèixer en primera persona la funcionalitat del sistema de telerehabilitació. A més, durant l'esdeveniment, ADFOCET va presentar el projecte SACSAC. L'esdeveniment va incloure els parlaments de la presidenta d'ADFO, el President de la Generalitat de Catalunya, el Conseller de Drets Socials, i l'alcaldessa de Vic.",
+		"News Section4 Info2": "Per més informació, visiteu la web d'ADFO",
+		
 
         /*Contact*/
         "Contact Title": "Posa't en contacte",
@@ -434,9 +447,13 @@ var dictionary = {
 		"News Section2 Title": "Estudio de viabilidad para evaluar la efectividad de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y se encuentran en fase crónica",
  		"News Section2 Info": "01/11/2022 Estudio cruzado de viabilidad en diez personas que habían sufrido un ictus y se encontraban en fase crónica. Dos grupos siguieron dos tratamientos de ocho semanas cada uno (en orden aleatorio), uno utilizando el sistema de telerehabilitación Muvity y el otro siguiendo una terapia convencional. Antes y después del tratamiento, se llevaron a cabo evaluaciones de independencia funcional, del nivel percebido de dolor, del control del balanceo y del estado de salud autoreportado. Después del estudio, los participantes respondieron un cuestionario para evaluar la usabilidad del sistema",
 		"News Section2 Info2": "Lee el artículo",
-		"News Section3 Title": "",
-        "News Section3 Info": "",
-
+		"News Section3 Title": "Muvity entra al Programa Impacto de CIMTI",
+        "News Section3 Info": "01/03/2023 Muvity ha entrado al Programa Impacto del Centro para la Integración de la Medicina y las Tecnologías Innovadoras. El Programa Impacto es un programa de aceleración de proyectos de innovación del sector sanitario y social, orientado a proyectos que se encuentran entre las fases 3-5 del Health Innovation Cycle. Muvity recibirá soporte y mentorías en fases de conceptualización del proyecto, en la salida al mercado, y en la implementación en los sistemas sanitario y social siguiendo la metodología propia del CIMTI, el Health Innovation Cycle. La metodología de CIMTI ha estado adaptada del CIMIT Boston’s Healthcare Innovation Cycle que, con más de 30 años de experiencia en el sector de innovación sanitario, asegura un desarrollo eficiente de soluciones y disminuye el riesgo de fallos. El Programa Impacto, con una duración de 15 meses, prevé ayudar a los equipos de los proyectos a avanzar entre una y dos fases del Health Innovation Cycle.",
+		"News Section3 Info2": "Para más información, visite la web de CIMTI",
+		"News Section4 Title": "Presentación de Muvity a miembros del gobierno de la Generalitat de Catalunya",
+        "News Section4 Info": "01/04/2023 El Presidente de la Generalitat de Catalunya, Pere Aragonès, y el Consejero del Departamento de Derechos Sociales, Carles Campuzano, visitaron las instalaciones de ADFO en Vic para conocer el proyecto Muvity. El proyecto ha obtenido recientemente financiación del Departamento de Derechos Sociales de un proyecto Next Generation, para aplicar tecnología al servicio de la atención y la cura de las personas. Durante la visita, el Consejero tuvo la oportunidad de reunirse con el equipo de Muvity y conocer en primera persona la funcionalidad del sistema de telerehabilitación. Además, durante el evento, ADFOCET presentó el proyecto SACSAC. El evento incluyó discursos de la presidenta de ADFO, del Presidente de la Generalitat de Catalunya, del Consejero de Derechos Sociales, y de la alcaldesa de Vic.",
+		"News Section4 Info2": "Para más información, visite la web de ADFO",
+		
         /*Contact*/
         "Contact Title": "Ponte en contacto",
         "Contact Paragraph1": "Si quieres saber más sobre lo que hacemos o si te gustaría colaborar, ponte en contacto con nosotros.",

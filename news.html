@@ -12,6 +12,35 @@
 		<link rel="icon" href="images/logoMuvity.png" type="image/icon type">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		
+		<style>
+			.container {
+			  display: flex;
+			}
+			
+			.carousel {
+			  width: 600px; /* Adjust the width as per your requirements */
+			  height: auto;
+			  overflow: hidden;
+			  position: relative;
+			}
+			
+			.carousel-inner {
+			  width: 300%; /* Adjust the width based on the number of images */
+			  display: flex;
+			  transition: transform 0.5s ease;
+			}
+			
+			.carousel img {
+			  width: calc(100% / 3); /* Adjust the width based on the number of images */
+			  height: auto;
+			}
+			
+			.text {
+			  margin-left: 20px; /* Adjust the margin as per your requirements */
+			}
+		</style>
+		
 	</head>
 	<body class="is-preload">
 
@@ -35,33 +64,35 @@
 												
 							<!-- <div class="features">		 -->
 							 	
-								
 								<section>
-									<h3><localized-text key="News Section1 Title"></localized-text></h3>
-									<div class="row-news">
-										<div class="col-md-6">
-										  <div class="carousel-container">
-											<ul class="image-carousel">
-											  <li class="item">
-												<img class="img-bordered" src="images/News1_1.jpg" alt="News1_1">
-											  </li>
-											  <li class="item">
-												<img class="img-bordered" src="images/News1_2.jpg" alt="News1_2">
-											  </li>
-											  <li class="item">
-												<img class="img-bordered" src="images/News1_3.jpg" alt="News1_3">
-											  </li>
-											</ul>
-										  </div>
+									<h3><localized-text key="News Section4 Title"></localized-text></h3>
+									<div class="container">
+										<div class="carousel" id="carousel4" width=1200px style="width:1200px">
+											<div class="carousel-inner" width=400% style="width:800px" alt="news4">
+												<img src="images/News4_1.jpg" alt="News4_1" width="200px" style="width:200px">
+												<img src="images/News4_2.jpg" alt="News4_2" width="200px" style="width:200px">
+												<img src="images/News4_3.jpg" alt="News4_3" width="200px" style="width:200px">
+												<img src="images/News4_4.jpg" alt="News4_4" width="200px" style="width:200px">
+											</div>
 										</div>
-										<div class="col-md-6">
-										  <div class="text-container">
-											<p><localized-text key="News Section1 Info"></localized-text></p>
-											<p><a href="https://tecsam.org/ca/activitats/mental-health-innovation-day/"><localized-text key="News Section1 Info2"></localized-text></a></p>
-										  </div>
+										<div class="text">
+											<p><localized-text key="News Section4 Info"></localized-text></p>
+											<p><a href="https://www.adfo.cat/el-m-hble-sr-pere-aragones-inaugura-sacsac-el-nou-producte-sostenible-dadfocet/"><localized-text key="News Section4 Info2"></localized-text></a></p>
 										</div>
 									</div>
 								</section>
+								
+								<section>
+									<h3><localized-text key="News Section3 Title"></localized-text></h3> 
+									<div class="image-container-news">
+										<img class="img-bordered" src="images/cimti_logo.png" width=200px alt="News2">
+									</div>
+									<div class="text-container">
+										<p><localized-text key="News Section3 Info"></localized-text></p>
+										<p><a href="https://cimti.cat/ca/projectes/"><localized-text key="News Section3 Info2"></localized-text></a></p>
+									</div>											
+								</section>
+								
 								<section>
 									<h3><localized-text key="News Section2 Title"></localized-text></h3> 
 									<div class="image-container-news">
@@ -71,6 +102,23 @@
 										<p><localized-text key="News Section2 Info"></localized-text></p>
 										<p><a href="https://www.sciencedirect.com/science/article/pii/S1052305722004852"><localized-text key="News Section2 Info2"></localized-text></a></p>
 									</div>											
+								</section>
+							
+								<section>
+									<h3><localized-text key="News Section1 Title"></localized-text></h3>
+									<div class="container">
+										<div class="carousel" id="carousel1">
+											<div class="carousel-inner">
+												<img src="images/News1_1.jpg" alt="News1_1">
+												<img src="images/News1_2.jpg" alt="News1_2">
+												<img src="images/News1_3.jpg" alt="News1_3">
+											</div>
+										</div>
+										<div class="text">
+											<p><localized-text key="News Section1 Info"></localized-text></p>
+											<p><a href="https://tecsam.org/ca/activitats/mental-health-innovation-day/"><localized-text key="News Section1 Info2"></localized-text></a></p>
+										</div>
+									</div>
 								</section>
 							 
 
@@ -98,6 +146,56 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/localizer.js"></script>
+			
+			<script>
+				var carousel1Inner = document.querySelector('#carousel1 .carousel-inner');
+				var carousel1Images = carousel1Inner.querySelectorAll('img');
+				var currentIndex1 = 0;
+				var imageCount1 = carousel1Images.length;
+				var imageWidth1 = carousel1Images[0].clientWidth;
+				var slideWidth1 = imageWidth1 * imageCount1;
+				var isTransitioning1 = false;
+
+				carousel1Inner.style.width = `${slideWidth1}px`;
+
+				function slideImages1() {
+				  if (isTransitioning1) return;
+				  isTransitioning1 = true;
+				  
+				  carousel1Inner.style.transform = `translateX(-${currentIndex1 * imageWidth1}px)`;
+				  currentIndex1 = (currentIndex1 + 1) % imageCount1;
+				  
+				  setTimeout(function() {
+					isTransitioning1 = false;
+				  }, 500); // Set the same duration as the transition in CSS
+				}
+
+				setInterval(slideImages1, 2000); // Slide image every 2 seconds (adjust as needed)
+
+				var carousel2Inner = document.querySelector('#carousel4 .carousel-inner');
+				var carousel2Images = carousel2Inner.querySelectorAll('img');
+				var currentIndex2 = 0;
+				var imageCount2 = carousel2Images.length;
+				var imageWidth2 = 200;
+				var slideWidth2 = imageWidth2 * imageCount2;
+				var isTransitioning2 = false;
+
+				carousel2Inner.style.width = `${slideWidth2}px`;
+
+				function slideImages2() {
+				  if (isTransitioning2) return;
+				  isTransitioning2 = true;
+				  
+				  carousel2Inner.style.transform = `translateX(-${currentIndex2 * imageWidth2}px)`;
+				  currentIndex2 = (currentIndex2 + 1) % imageCount2;
+				  
+				  setTimeout(function() {
+					isTransitioning2 = false;
+				  }, 500); // Set the same duration as the transition in CSS
+				}
+
+				setInterval(slideImages2, 2000); // Slide image every 3 seconds (adjust as needed)
+			</script>
 			
 	</body>
 </html>
