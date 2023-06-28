@@ -67,11 +67,11 @@ var dictionary = {
         "meetTheTeam.html Alejandro Education": "Bachelor student in Videogame Development",
         "meetTheTeam.html Alejandro Task": "Software Developer",
         //// Júlia Monràs
-        "meetTheTeam.html Julia Education": "Physiotherapy",
-        "meetTheTeam.html Julia Task": "Conceptual designer and tester",
+        "meetTheTeam.html Julia Education": "Bachelor student in Videogame Development",
+        "meetTheTeam.html Julia Task": "Software Developer and Designer, Website",
         //// Núria Lamonja
-        "meetTheTeam.html Nuria Education": "Bachelor student in Videogame Development",
-        "meetTheTeam.html Nuria Task": "Software Developer and Designer, Website",
+        "meetTheTeam.html Nuria Education": "Bachelor in business administration",
+        "meetTheTeam.html Nuria Task": "Project coordinator",
         //// Ariadna Pamplona
         "meetTheTeam.html Ariadna Education": "Educational Therapist",
         "meetTheTeam.html Ariadna Task": "Project manager",
@@ -182,8 +182,8 @@ var dictionary = {
         "meetTheTeam.html Alejandro Education": "Bachelor student in Videogame Development",
         "meetTheTeam.html Alejandro Task": "Software Developer",
         //// Júlia Monràs
-        "meetTheTeam.html Julia Education": "Physiotherapy",
-        "meetTheTeam.html Julia Task": "Conceptual designer and tester",
+        "meetTheTeam.html Julia Education": "Bachelor student in Videogame Development",
+        "meetTheTeam.html Julia Task": "Software Developer and Designer, Website",
         //// Núria Lamonja
         "meetTheTeam.html Nuria Education": "Bachelor student in Videogame Development",
         "meetTheTeam.html Nuria Task": "Software Developer and Designer, Website",
