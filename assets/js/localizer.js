@@ -69,8 +69,8 @@ var dictionary = {
 		"Research project 9 description": "Regulatory studies 2023. TECSAM.",
 		"Research project 10": "MUVITY. Impact Program. 03/2023-06/2024. ",
 		"Research project 10 description": "CIMTI. ",
-		"Research project 10": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
-		"Research project 10 description": "Social Rights Department. Gobernment of Catalonia. ",
+		"Research project 11": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 11 description": "Social Rights Department. Gobernment of Catalonia. ",
 		
 		
 		
@@ -223,8 +223,8 @@ var dictionary = {
 		"Research project 9 description": "Regulatory studies 2023. TECSAM.",
 		"Research project 10": "MUVITY. Impact Program. 03/2023-06/2024. ",
 		"Research project 10 description": "CIMTI. ",
-		"Research project 10": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
-		"Research project 10 description": "Social Rights Department. Gobernment of Catalonia. ",
+		"Research project 11": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 11 description": "Social Rights Department. Gobernment of Catalonia. ",
 		
         /*Meet the team*/
         "Meet The Team Title": "Meet the Team",
@@ -373,8 +373,8 @@ var dictionary = {
 		"Research project 9 description": "Estudis de regulatòria 2023. TECSAM. ",
 		"Research project 10": "MUVITY. Programa Impacte. 03/2023-06/2024. ",
 		"Research project 10 description": "CIMTI. ",
-		"Research project 10": "MUVITY: Desenvolupament i implantació d'un sistema ludificat de telerehabilitació física. (DDS008/22/000342). 03/2023-12/2025. ",
-		"Research project 10 description": "Departament de Drets Socials. Generalitat de Catalunya. ",
+		"Research project 11": "MUVITY: Desenvolupament i implantació d'un sistema ludificat de telerehabilitació física. (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 11 description": "Departament de Drets Socials. Generalitat de Catalunya. ",
 
 
         /*Meet the team*/
@@ -526,8 +526,8 @@ var dictionary = {
 		"Research project 9 description": "Estudios de regulatoria 2023. TECSAM. ",
 		"Research project 10": "MUVITY. Programa Impacta. 03/2023-06/2024. ",
 		"Research project 10 description": "CIMTI. ",
-		"Research project 10": "MUVITY: Desarrollo e implantación de un sistema ludificado de telerehabilitación física. (DDS008/22/000342). 03/2023-12/2025. ",
-		"Research project 10 description": "Departamento de Derechos Sociales. Generalitat de Catalunya. ",
+		"Research project 11": "MUVITY: Desarrollo e implantación de un sistema ludificado de telerehabilitación física. (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 11 description": "Departamento de Derechos Sociales. Generalitat de Catalunya. ",
 
 
         /*Meet the team*/
