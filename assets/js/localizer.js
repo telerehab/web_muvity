@@ -496,8 +496,8 @@ var dictionary = {
         "Research Title": "Investigación",
         "Research Paragraph1": "En la siguiente sección se pueden conocer los artículos científicos, y los proyectos de investigación y de transferencia de tencnología en los cuales se basa esta iniciativa.",
         "Title Journals": "Artículos científicos",
-		"Title Congresses": "Congressos",
-		"Title Projects": "Projectes",
+		"Title Congresses": "Congresos",
+		"Title Projects": "Proyectos",
 		/*Sections*/
 		"Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y están en fase crónica",
         "Research Section1 Info": "Se realizó un análisis cruzado de viabilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
