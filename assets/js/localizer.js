@@ -37,14 +37,43 @@ var dictionary = {
 
         /*Research*/
         "Research Title": "Research",
-        "Research Paragraph1": "In the following section you can take a deeper look on the research this initiative is based on.",
-        /*Sections*/
+        "Research Paragraph1": "In the following section you can take a deeper look on the journal articles, research and technology-transfer projects this initiative is based on.",
+        "Title Journals": "Journal articles",
+		"Title Congresses": "Congresses",
+		"Title Projects": "Projects",
+		/*Sections*/
         "Research Section1 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
         "Research Section1 Info": "A feasibility cross-over analysis was conducted in ten chronic post-stroke subjects. Two randomized groups followed two eight-weeks treatments, one with the telerehabilitation system Muvity and the other following conventional therapy (in random order). Before and after each treatment, physical evaluations were performed assessing functional independence, the perceived level of pain, balance control and self-reported health status. After the study, the participants answered a short questionnaire to measure the usability of the system.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
         "Research Section3 Title": "",
         "Research Section3 Info": "",
+		
+		"Research project 1": "Virtual Reality for people with mobility impairments. 2020-D003. 09/2020-06/2021. ",
+		"Research project 1 description": "Center for Development Cooperation of UPC. ",
+		"Research project 2": "TELEDFO - Gamified solution of physical telerehabilitation with social impact. 09/2020-09/2021. ",
+		"Research project 2 description": "DKV Seguros (DKV Impact 2020).",
+		"Research project 3": "TELEDFO: Telerehabilitation for post-stroke subjects. 2021-H001. 09/2021-06/2022. ",
+		"Research project 3 description": "Center for Development Cooperation of UPC.",
+		"Research project 4": "TELEDFO - Gamified solution of physical telerehabilitation with social impact. 12/2020-01/2022. ",
+		"Research project 4 description": "Indra and Universia Foundation (Accessible Technologies 2020). ",
+		"Research project 5": "Telerehabilitation for people doubly vulnerable. 2022-C002. 09/2022-06/2023. ",
+		"Research project 5 description": "Center for Development Cooperation of UPC.",
+		"Research project 6": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. " ,
+		"Research project 6 description": "Patentability analysis 2022. TECSAM.",
+		"Research project 7": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. ",
+		"Research project 7 description": "Strategic advice 2022. TECSAM.",
+		"Research project 8": "MUVITY: a telerehabilitation system for people doubly vulnerable. 2023-C002. 09/2023-06/2024. ",
+		"Research project 8 description": "Center for Development Cooperation of UPC. ",
+		"Research project 9": "Muvity: a telerehabilitation for neuromuscular diseases. 09/2023-12/2023. ",
+		"Research project 9 description": "Regulatory studies 2023. TECSAM.",
+		"Research project 10": "MUVITY. Impact Program. 03/2023-06/2024. ",
+		"Research project 10 description": "CIMTI. ",
+		"Research project 10": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 10 description": "Social Rights Department. Gobernment of Catalonia. ",
+		
+		
+		
 
         /*Meet the team*/
         "Meet The Team Title": "Meet the Team",
@@ -161,8 +190,11 @@ var dictionary = {
 
         /*Research*/
         "Research Title": "Research",
-        "Research Paragraph1": "In the following section you can take a deeper look on the papers and research this initiative is based on.",
-        /*Sections*/
+        "Research Paragraph1": "In the following section you can take a deeper look on the journal articles, research and technology-transfer projects this initiative is based on.",
+        "Title Journals": "Journal articles",
+		"Title Congresses": "Congresses",
+		"Title Projects": "Projects",
+		/*Sections*/
 		"Research Section1 Title": "",
         "Research Section1 Info": "",
 		"Research Section2 Title": "A feasibility study to assess the effectiveness of Muvity: A telerehabilitation system for chronic post-stroke subjects",
@@ -170,7 +202,30 @@ var dictionary = {
 
         "Research Section3 Title": "",
         "Research Section3 Info": "",
-
+		
+		"Research project 1": "Virtual Reality for people with mobility impairments. 2020-D003. 09/2020-06/2021. ",
+		"Research project 1 description": "Center for Development Cooperation of UPC. ",
+		"Research project 2": "TELEDFO - Gamified solution of physical telerehabilitation with social impact. 09/2020-09/2021. ",
+		"Research project 2 description": "DKV Seguros (DKV Impact 2020).",
+		"Research project 3": "TELEDFO: Telerehabilitation for post-stroke subjects. 2021-H001. 09/2021-06/2022. ",
+		"Research project 3 description": "Center for Development Cooperation of UPC.",
+		"Research project 4": "TELEDFO - Gamified solution of physical telerehabilitation with social impact. 12/2020-01/2022. ",
+		"Research project 4 description": "Indra and Universia Foundation (Accessible Technologies 2020). ",
+		"Research project 5": "Telerehabilitation for people doubly vulnerable. 2022-C002. 09/2022-06/2023. ",
+		"Research project 5 description": "Center for Development Cooperation of UPC.",
+		"Research project 6": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. " ,
+		"Research project 6 description": "Patentability analysis 2022. TECSAM.",
+		"Research project 7": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. ",
+		"Research project 7 description": "Strategic advice 2022. TECSAM.",
+		"Research project 8": "MUVITY: a telerehabilitation system for people doubly vulnerable. 2023-C002. 09/2023-06/2024. ",
+		"Research project 8 description": "Center for Development Cooperation of UPC. ",
+		"Research project 9": "Muvity: a telerehabilitation for neuromuscular diseases. 09/2023-12/2023. ",
+		"Research project 9 description": "Regulatory studies 2023. TECSAM.",
+		"Research project 10": "MUVITY. Impact Program. 03/2023-06/2024. ",
+		"Research project 10 description": "CIMTI. ",
+		"Research project 10": "MUVITY: Development and implementation of a gamified physical telerehabilitation system (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 10 description": "Social Rights Department. Gobernment of Catalonia. ",
+		
         /*Meet the team*/
         "Meet The Team Title": "Meet the Team",
         "Meet The Team Paragraph1": "Behind Muvity there is a multidiscipliary team with expertise in various fields, with researchers from the UPC and therapists from ADFO.",
@@ -286,14 +341,41 @@ var dictionary = {
 
         /*Research*/
         "Research Title": "Investigació",
-        "Research Paragraph1": "En la següent secció es pot conèixer la recerca en la qual es basa aquesta iniciativa.",
-        /*Sections*/
+        "Research Paragraph1": "En la següent secció es poden conèixer els articles cietífics, i els projectes de recerca i transferència de tecnologia, sobre els quals es basa aquesta iniciativa.",
+        "Title Journals": "Articles científics",
+		"Title Congresses": "Congressos",
+		"Title Projects": "Projectes",
+		/*Sections*/
 		"Research Section1 Title": "Estudi de viabilitat per avaluar l'eficàcia de Muvity: un sistema de telerehabilitació per a persones que han patit un ictus i es troben en fase crònica", 
 		"Research Section1 Info": "Es va realitzar una anàlisi de viabilitat creuada en deu subjectes crònics després d'un ictus. Dos grups aleatoris van seguir dos tractaments de vuit setmanes, un amb el sistema de telerehabilitació Muvity i l'altre després de la teràpia convencional (en ordre aleatori). Abans i després de cada tractament, es van realitzar avaluacions físiques avaluant la independència funcional, el nivell de dolor percebut, el control de l'equilibri i l'estat de salut autoinformat. Després de l'estudi, els participants van respondre un breu qüestionari per mesurar la usabilitat del sistema.",
 		"Research Section2 Title": "",
         "Research Section2 Info": "",
         "Research Section3 Title": "",
         "Research Section3 Info": "",
+
+		"Research project 1": "Realitat Virtual per a rehabilitació de pacients amb discapacitat física. 2020-D003. 09/2020-06/2021. ",
+		"Research project 1 description": "Centre de Cooperació per al desenvolupament de la UPC. ",
+		"Research project 2": "TELEDFO - Solució ludificada de telerehabilitació física amb impacte social. 09/2020-09/2021. ",
+		"Research project 2 description": "DKV Assegurances (DKV Impacta 2020).",
+		"Research project 3": "TELEDFO – Telerehabilitació per persones que han sofert ictus. 2021-H001. 09/2021-06/2022. ",
+		"Research project 3 description": "Centre de Cooperació per al desenvolupament de la UPC. ",
+		"Research project 4": "TELEDFO - Solució ludificada de telerehabilitació física amb impacte social. 12/2020-01/2022. ",
+		"Research project 4 description": "Indra i Fundació Universia (Tecnologies Accessibles 2020). ",
+		"Research project 5": "Telerehabilitació per persones doblement vulnerables. 2022-C002. 09/2022-06/2023. ",
+		"Research project 5 description": "Centre de Cooperació per al desenvolupament de la UPC. ",
+		"Research project 6": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. " ,
+		"Research project 6 description": "Anàlisi de patentabilitat 2022. TECSAM.",
+		"Research project 7": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. ",
+		"Research project 7 description": "Assessorament estratègic 2022. TECSAM.",
+		"Research project 8": "Muvity: un sistema de telerehabilitació per persones doblement vulnerables. 2023-C002. 09/2023-06/2024. ",
+		"Research project 8 description": "Centre de Cooperació per al desenvolupament de la UPC. ",
+		"Research project 9": "Muvity: a telerehabilitation for neuromuscular diseases. 09/2023-12/2023. ",
+		"Research project 9 description": "Estudis de regulatòria 2023. TECSAM. ",
+		"Research project 10": "MUVITY. Programa Impacte. 03/2023-06/2024. ",
+		"Research project 10 description": "CIMTI. ",
+		"Research project 10": "MUVITY: Desenvolupament i implantació d'un sistema ludificat de telerehabilitació física. (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 10 description": "Departament de Drets Socials. Generalitat de Catalunya. ",
+
 
         /*Meet the team*/
         "Meet The Team Title": "Coneix l'equip",
@@ -310,7 +392,7 @@ var dictionary = {
 		"meetTheTeam.html Marc Education": "Graduat d'Administració d'empreses, Màster en desenvolupament de videojocs",
 		"meetTheTeam.html Marc Task": "Desenvolupament de software",
 		//// Cris Molas-Ferrer
-		"meetTheTeam.html Cris Education": "Fisioteràpia, Màster en Investigació Translacional en Fisioteràpia, Doctorant en Medicina multidisciplinar i rehabilitació",
+		"meetTheTeam.html Cris Education": "Fisioteràpia, Màster en Investigació Translacional en Fisioteràpia, Doctorand en Medicina multidisciplinar i rehabilitació",
 		"meetTheTeam.html Cris Task": "Disseny conceptual i tester",
 		//// Alejandro Moreno
 		"meetTheTeam.html Alejandro Education": "Estudiant de disseny i desenvolupament de videojocs",
@@ -412,14 +494,41 @@ var dictionary = {
 
         /*Research*/
         "Research Title": "Investigación",
-        "Research Paragraph1": "En la siguiente sección podéis conocer la investigación en la cual se basa esta iniciativa.",
-        /*Sections*/
+        "Research Paragraph1": "En la siguiente sección se pueden conocer los artículos científicos, y los proyectos de investigación y de transferencia de tencnología en los cuales se basa esta iniciativa.",
+        "Title Journals": "Artículos científicos",
+		"Title Congresses": "Congressos",
+		"Title Projects": "Projectes",
+		/*Sections*/
 		"Research Section1 Title": "Estudio de viabilidad para evaluar la eficacia de Muvity: un sistema de telerehabilitación para personas que han sufrido un ictus y están en fase crónica",
         "Research Section1 Info": "Se realizó un análisis cruzado de viabilidad en diez sujetos crónicos que sufrieron un accidente cerebrovascular. Dos grupos aleatorizados siguieron dos tratamientos de ocho semanas, uno con el sistema de telerehabilitación Muvity y el otro siguiendo la terapia convencional (en orden aleatorio). Antes y después de cada tratamiento, se realizaron evaluaciones físicas evaluando la independencia funcional, el nivel de dolor percibido, el control del equilibrio y el estado de salud autoinformado. Después del estudio, los participantes respondieron un breve cuestionario para medir la usabilidad del sistema.",
         "Research Section2 Title": "",
         "Research Section2 Info": "",
         "Research Section3 Title": "",
         "Research Section3 Info": "",
+
+		"Research project 1": "Realidad Virtual para la rehabilitación de pacientes con discapacidad física. 2020-D003. 09/2020-06/2021. ",
+		"Research project 1 description": "Centro de Cooperación al desarrollo de la UPC. ",
+		"Research project 2": "TELEDFO - Solución gamificada de telerehabilitación física con impacto social. 09/2020-09/2021. ",
+		"Research project 2 description": "DKV Seguros (DKV Impacta 2020).",
+		"Research project 3": "TELEDFO – Telerehabilitación para personas que han sufrido un ictus. 2021-H001. 09/2021-06/2022. ",
+		"Research project 3 description": "Centro de Cooperación al desarrollo de la UPC. ",
+		"Research project 4": "TELEDFO - Solución gamificada de telerehabilitación física con impacto social. 12/2020-01/2022. ",
+		"Research project 4 description": "Indra y Fundación Universia (Tecnologías Accesibles 2020). ",
+		"Research project 5": "Telerehabilitación para personas doblemente vulnerables. 2022-C002. 09/2022-06/2023. ",
+		"Research project 5 description": "Centro de Cooperación al desarrollo de la UPC. ",
+		"Research project 6": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. " ,
+		"Research project 6 description": "Análisis de patentabilidad 2022. TECSAM.",
+		"Research project 7": "Muvity: a telerehabilitation for neuromuscular diseases. 06/2022-01/2023. ",
+		"Research project 7 description": "Asesoramiento estratégico 2022. TECSAM.",
+		"Research project 8": "Muvity: un sistema de telerehabilitación para personas doblemente vulnerables. 2023-C002. 09/2023-06/2024. ",
+		"Research project 8 description": "Centro de Cooperación al desarrollo de la UPC. ",
+		"Research project 9": "Muvity: a telerehabilitation for neuromuscular diseases. 09/2023-12/2023. ",
+		"Research project 9 description": "Estudios de regulatoria 2023. TECSAM. ",
+		"Research project 10": "MUVITY. Programa Impacta. 03/2023-06/2024. ",
+		"Research project 10 description": "CIMTI. ",
+		"Research project 10": "MUVITY: Desarrollo e implantación de un sistema ludificado de telerehabilitación física. (DDS008/22/000342). 03/2023-12/2025. ",
+		"Research project 10 description": "Departamento de Derechos Sociales. Generalitat de Catalunya. ",
+
 
         /*Meet the team*/
         "Meet The Team Title": "Conoce al equipo",
